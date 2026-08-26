@@ -104,7 +104,6 @@ class PPID_Bot_Purbalingga_Plugin {
             <div id="ppid-floating-chatbot">
                 <div class="ppid-chatbot-header">
                     <div class="ppid-chatbot-brand">
-                        <div class="ppid-chatbot-avatar">🤖</div>
                         <div class="ppid-chatbot-info">
                             <h3>PPIDbot Purbalingga</h3>
                             <p>Layanan Informasi Publik</p>
