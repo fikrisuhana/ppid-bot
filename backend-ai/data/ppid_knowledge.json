@@ -1,0 +1,138 @@
+{
+  "organization": {
+    "name": "PPID Utama Pemerintah Kabupaten Purbalingga",
+    "dinas": "Dinas Komunikasi dan Informatika (Dinkominfo) Kabupaten Purbalingga",
+    "address": "Jl. Letkol Isdiman No. 17A, Purbalingga, Jawa Tengah 53313",
+    "email": "ppid@purbalinggakab.go.id",
+    "phone": "(0281) 891040",
+    "whatsapp_helpdesk": "6281234567890",
+    "portal_url": "https://ppid.purbalinggakab.go.id",
+    "permohonan_url": "https://ppid.purbalinggakab.go.id/permohonan-informasi"
+  },
+  "faqs": [
+    {
+      "id": "faq-1",
+      "keywords": [
+        "cara permohonan",
+        "syarat informasi",
+        "alur permohonan",
+        "mengajukan informasi",
+        "cara meminta informasi",
+        "prosedur"
+      ],
+      "question": "Bagaimana cara mengajukan permohonan informasi publik di PPID Purbalingga?",
+      "answer": "Permohonan informasi publik di PPID Kabupaten Purbalingga dapat diajukan secara online maupun offline:\n\n1. **Online**: Kunjungi website resmi PPID Purbalingga lalu isi formulir Permohonan Informasi Publik online.\n2. **Offline / Langsung**: Datang ke Desk Layanan PPID Utama di Kantor Dinkominfo Kab. Purbalingga dengan membawa identitas resmi (KTP untuk perorangan, Akta/SK Kemenkumham untuk Lembaga/Ormas).\n3. Petugas akan memverifikasi permohonan dan memberikan tanda bukti penerimaan.",
+      "links": [
+        {
+          "title": "Formulir Permohonan Informasi Online",
+          "url": "https://ppid.purbalinggakab.go.id/permohonan-informasi"
+        },
+        {
+          "title": "Download SOP Permohonan Informasi",
+          "url": "https://ppid.purbalinggakab.go.id/sop-layanan"
+        }
+      ]
+    },
+    {
+      "id": "faq-2",
+      "keywords": [
+        "biaya",
+        "tarif",
+        "bayar",
+        "gratis",
+        "ongkos"
+      ],
+      "question": "Berapa biaya untuk permohonan informasi publik?",
+      "answer": "Pelayanan informasi publik di PPID Kabupaten Purbalingga adalah **GRATIS (Rp 0)**. Pemohon tidak dipungut biaya pendaftaran atau administrasi.\n\n*Catatan*: Jika pemohon meminta penggandaan dokumen dalam bentuk hardcopy (fotokopi) atau media rekam fisik, biaya penggandaan/media tersebut dapat ditanggung oleh pemohon sesuai ketentuan.",
+      "links": [
+        {
+          "title": "Standar Biaya Layanan PPID",
+          "url": "https://ppid.purbalinggakab.go.id/standar-biaya"
+        }
+      ]
+    },
+    {
+      "id": "faq-3",
+      "keywords": [
+        "waktu",
+        "berapa lama",
+        "jangka waktu",
+        "durasi proses",
+        "hari kerja"
+      ],
+      "question": "Berapa lama jangka waktu proses pelayanan informasi?",
+      "answer": "Sesuai UU KIP No. 14 Tahun 2008 dan Standar Layanan PPID Purbalingga:\n\n* **Pemberitahuan Tertulis**: Maksimal **10 (sepuluh) hari kerja** sejak permohonan dinyatakan lengkap.\n* **Perpanjangan Waktu**: Dapat diperpanjang maksimal **7 (tujuh) hari kerja** dengan alasan tertulis jika informasi yang diminta membutuhkan koordinasi lebih lanjut.",
+      "links": [
+        {
+          "title": "Standar Operasional Prosedur (SOP)",
+          "url": "https://ppid.purbalinggakab.go.id/sop-layanan"
+        }
+      ]
+    },
+    {
+      "id": "faq-4",
+      "keywords": [
+        "keberatan",
+        "sengketa",
+        "tidak puas",
+        "komplain",
+        "alur keberatan"
+      ],
+      "question": "Bagaimana prosedur pengajuan keberatan informasi publik?",
+      "answer": "Jika permohonan ditolak, tidak ditanggapi dalam waktu 10 hari kerja, atau biaya tidak wajar, pemohon berhak mengajukan **Keberatan Informasi** kepada Atasan PPID dalam waktu paling lambat **30 hari kerja** sejak alasan keberatan diketahui. Atasan PPID wajib memberikan tanggapan tertulis paling lambat **30 hari kerja**.",
+      "links": [
+        {
+          "title": "Formulir Pengajuan Keberatan",
+          "url": "https://ppid.purbalinggakab.go.id/pengajuan-keberatan"
+        }
+      ]
+    },
+    {
+      "id": "faq-5",
+      "keywords": [
+        "kategori informasi",
+        "jenis informasi",
+        "berkala",
+        "setiap saat",
+        "serta merta",
+        "dikecualikan"
+      ],
+      "question": "Apa saja jenis klasifikasi informasi publik yang tersedia?",
+      "answer": "Informasi publik diklasifikasikan menjadi 4 kategori:\n1. **Informasi Berkala**: Profil Pemkab, Laporan Keuangan, Rencana Kerja, DPA/APBD.\n2. **Informasi Serta Merta**: Peringatan dini kebencanaan, darurat kesehatan, atau ancaman keselamatan umum.\n3. **Informasi Setiap Saat**: Daftar regulasi daerah (Perda/Perbup), SOP, hasil penelitian, perjanjian kerjasama.\n4. **Informasi Dikecualikan**: Rahasia negara, rahasia bisnis, atau privasi pribadi sesuai uji konsekuensi.",
+      "links": [
+        {
+          "title": "Daftar Informasi Publik (DIP) Purbalingga",
+          "url": "https://ppid.purbalinggakab.go.id/daftar-informasi-publik"
+        }
+      ]
+    },
+    {
+      "id": "faq-6",
+      "keywords": [
+        "jam layanan",
+        "kantor",
+        "alamat",
+        "kontak",
+        "lokasi",
+        "whatsapp",
+        "call center"
+      ],
+      "question": "Di mana lokasi kantor PPID dan jam operasional layanannya?",
+      "answer": "Desk Layanan PPID Utama Kab. Purbalingga beralamat di:\n📍 **Dinas Komunikasi dan Informatika Kab. Purbalingga**\nJl. Letkol Isdiman No. 17A, Purbalingga, Jawa Tengah 53313\n\n🕒 **Jam Operasional Layanan**:\n- Senin - Kamis: 07.30 - 15.30 WIB\n- Jumat: 07.30 - 14.30 WIB\n- Sabtu, Minggu & Hari Libur Nasional: Tutup (Layanan online tetap aktif 24 jam)",
+      "links": [
+        {
+          "title": "Peta Lokasi & Kontak PPID",
+          "url": "https://ppid.purbalinggakab.go.id/kontak"
+        }
+      ]
+    }
+  ],
+  "template_buttons": [
+    "Bagaimana cara mengajukan permohonan informasi?",
+    "Berapa lama proses pelayanan permohonan informasi?",
+    "Berapa biaya pengajuan informasi publik?",
+    "Bagaimana alur pengajuan keberatan informasi?",
+    "Apa saja kategori informasi publik yang tersedia?",
+    "Di mana alamat dan kontak layanan PPID Purbalingga?"
+  ]
+}

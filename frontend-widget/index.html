@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPID Bot Purbalingga - Interactive Testbed Demo</title>
+    <link rel="stylesheet" href="chatbot.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #eef2f7;
+            margin: 0;
+            padding: 40px;
+            color: #333;
+        }
+        .demo-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 { color: #0a4da2; margin-top: 0; }
+        .badge { background: #008080; color: white; padding: 4px 10px; border-radius: 6px; font-size: 12px; }
+    </style>
+</head>
+<body>
+
+<div class="demo-container">
+    <h1>🏛️ Portal PPID Kabupaten Purbalingga</h1>
+    <p><span class="badge">Simulasi Website</span> Ini adalah halaman demo untuk menguji widget <strong>PPID Bot Purbalingga</strong>.</p>
+    <p>Klik tombol <strong>"Tanya PPIDbot"</strong> di pojok kiri bawah untuk berinteraksi dengan asisten AI informasi publik.</p>
+</div>
+
+<!-- PPID Chatbot Component -->
+<div id="ppid-chatbot-container">
+    <!-- Floating Toggle Button -->
+    <div class="ppid-chatbot-toggle-container" id="ppidToggleContainer">
+        <button class="ppid-chatbot-toggle" id="ppidChatbotToggle">
+            <span class="toggle-icon">💬</span>
+            <span>Tanya PPIDbot</span>
+        </button>
+    </div>
+
+    <!-- Floating Chat Window -->
+    <div id="ppid-floating-chatbot">
+        <!-- Header -->
+        <div class="ppid-chatbot-header">
+            <div class="ppid-chatbot-brand">
+                <div class="ppid-chatbot-avatar">🤖</div>
+                <div class="ppid-chatbot-info">
+                    <h3>PPIDbot Purbalingga</h3>
+                    <p>Layanan Informasi Publik</p>
+                </div>
+            </div>
+            <button class="ppid-close-btn" id="ppidCloseBtn" title="Tutup Chat">&times;</button>
+        </div>
+
+        <!-- Body & Chat History -->
+        <div class="ppid-chatbot-body" id="ppidChatBody">
+            <div class="ppid-message bot">
+                <div class="ppid-bubble">
+                    Halo Sedulur Purbalingga! 👋<br>
+                    Saya <strong>PPIDbot</strong>, asisten pintar PPID Kabupaten Purbalingga. Ada yang bisa saya bantu terkait layanan permohonan informasi publik?
+                </div>
+            </div>
+        </div>
+
+        <!-- Typing Indicator -->
+        <div class="ppid-typing" id="ppidTyping">
+            <div class="ppid-typing-dot"></div>
+            <div class="ppid-typing-dot"></div>
+            <div class="ppid-typing-dot"></div>
+        </div>
+
+        <!-- Pertanyaan Template Accordion -->
+        <div class="ppid-quick-accordion" id="ppidQuickAccordion">
+            <div class="ppid-accordion-header" id="ppidAccordionHeader">
+                <span>⚡ Pertanyaan Template</span>
+                <span>▾</span>
+            </div>
+            <div class="ppid-accordion-content" id="ppidAccordionContent">
+                <!-- Injected via JavaScript -->
+            </div>
+        </div>
+
+        <!-- Footer / Input -->
+        <div class="ppid-chatbot-footer">
+            <input type="text" id="ppidChatInput" class="ppid-chat-input" placeholder="Tulis pertanyaan seputar PPID...">
+            <button id="ppidSendBtn" class="ppid-send-btn" title="Kirim Pesan">➤</button>
+        </div>
+
+
+    </div>
+</div>
+
+<script>
+    window.ppid_bot_config = {
+        apiUrl: 'http://localhost:5000/ask',
+        templatesUrl: 'http://localhost:5000/templates',
+        helpdeskPhone: '6281234567890',
+        portalUrl: 'https://ppid.purbalinggakab.go.id'
+    };
+</script>
+<script src="chatbot.js"></script>
+
+</body>
+</html>
