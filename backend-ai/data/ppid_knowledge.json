@@ -11,6 +11,83 @@
   },
   "faqs": [
     {
+      "question": "Berapa jumlah dinas dan apa saja daftar dinas di Pemerintah Kabupaten Purbalingga?",
+      "keywords": [
+        "berapa dinas",
+        "jumlah dinas",
+        "daftar dinas",
+        "nama dinas",
+        "opd purbalingga",
+        "organisasi perangkat daerah",
+        "badan dinas"
+      ],
+      "answer": "Di lingkungan Pemerintah Kabupaten Purbalingga, terdapat **18 Dinas Daerah** (Organisasi Perangkat Daerah / OPD):\n\n1. **Dinas Komunikasi dan Informatika (Dinkominfo)**\n2. **Dinas Kesehatan (Dinkes)**\n3. **Dinas Pendidikan dan Kebudayaan (Dindikbud)**\n4. **Dinas Pekerjaan Umum dan Penataan Ruang (DPUPR)**\n5. **Dinas Perumahan dan Permukiman (Dinperkim)**\n6. **Dinas Sosial, Pengendalian Penduduk dan KB, Pemberdayaan Perempuan dan Perlindungan Anak (Dinsosdaldukkbp3a)**\n7. **Dinas Ketenagakerjaan (Dinnaker)**\n8. **Dinas Ketahanan Pangan dan Perikanan (DKPP)**\n9. **Dinas Kependudukan dan Pencatatan Sipil (Dindukcapil)**\n10. **Dinas Pemberdayaan Masyarakat dan Desa (Dinpermasdes)**\n11. **Dinas Perhubungan (Dinhub)**\n12. **Dinas Koperasi dan Usaha Kecil Menengah (Dinkop UKM)**\n13. **Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP)**\n14. **Dinas Pemuda, Olahraga dan Pariwisata (Dinporapar)**\n15. **Dinas Pertanian (Dinpertan)**\n16. **Dinas Kearsipan dan Perpustakaan (Dinarpus)**\n17. **Dinas Perindustrian dan Perdagangan (Dinperindag)**\n18. **Dinas Lingkungan Hidup (DLH)**\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/ppid-pelaksana-opd/",
+      "links": [
+        {
+          "title": "Daftar PPID Pelaksana / OPD",
+          "url": "http://ppid.purbalinggakab.go.id/ppid-pelaksana-opd/"
+        },
+        {
+          "title": "Portal Resmi Pemkab Purbalingga",
+          "url": "https://purbalinggakab.go.id"
+        }
+      ]
+    },
+    {
+      "question": "Berapa lama proses pelayanan permohonan informasi publik di PPID Purbalingga?",
+      "keywords": [
+        "berapa lama",
+        "waktu pelayanan",
+        "jangka waktu",
+        "durasi permohonan",
+        "proses permohonan",
+        "lama proses"
+      ],
+      "answer": "Jangka waktu pelayanan permohonan informasi publik di PPID Kabupaten Purbalingga adalah:\n\n1. **Pemberitahuan Tertulis**: Diberikan paling lambat **10 (sepuluh) hari kerja** sejak permohonan diterima secara lengkap.\n2. **Perpanjangan Waktu**: Dapat diperpanjang paling lambat **7 (tujuh) hari kerja** dengan memberikan alasan tertulis kepada pemohon.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/",
+      "links": [
+        {
+          "title": "SOP Waktu Pelayanan Informasi",
+          "url": "http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/"
+        }
+      ]
+    },
+    {
+      "question": "Berapa biaya pengajuan permohonan informasi publik di PPID Purbalingga?",
+      "keywords": [
+        "berapa biaya",
+        "biaya pengajuan",
+        "tarif informasi",
+        "apakah bayar",
+        "biaya ppid",
+        "biaya permohonan"
+      ],
+      "answer": "Pelayanan informasi publik di PPID Kabupaten Purbalingga adalah **GRATIS (Rp 0 / Tidak Dipungut Biaya)**.\n\n*Catatan*: Jika pemohon membutuhkan penggandaan/fotokopi atau media penyimpanan fisik (seperti CD/Flashdisk), biaya penggandaan ditanggung sendiri oleh pemohon informasi.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/anggaran-biaya-2/",
+      "links": [
+        {
+          "title": "Standar Biaya Pelayanan PPID",
+          "url": "http://ppid.purbalinggakab.go.id/anggaran-biaya-2/"
+        }
+      ]
+    },
+    {
+      "question": "Dimana alamat kantor dan kontak Desk Layanan PPID Purbalingga?",
+      "keywords": [
+        "alamat ppid",
+        "kontak ppid",
+        "lokasi kantor",
+        "telepon ppid",
+        "email ppid",
+        "kantor dinkominfo"
+      ],
+      "answer": "Alamat Desk Layanan Informasi PPID Utama Kabupaten Purbalingga:\n\n📍 **Alamat**: Kantor Dinas Komunikasi dan Informatika (Dinkominfo) Kab. Purbalingga, Jl. Letkol Isdiman No. 17A, Purbalingga, Jawa Tengah 53313.\n📞 **Telepon**: (0281) 891040\n✉️ **Email**: ppid@purbalinggakab.go.id / dinkominfo@purbalinggakab.go.id\n🕒 **Jam Pelayanan**:\n• Senin - Kamis: 07.30 - 15.30 WIB\n• Jumat: 07.30 - 14.30 WIB\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kontak/",
+      "links": [
+        {
+          "title": "Halaman Kontak & Lokasi",
+          "url": "http://ppid.purbalinggakab.go.id/kontak/"
+        }
+      ]
+    },
+    {
       "question": "Bagaimana cara mengajukan permohonan informasi?",
       "keywords": [
         "permohonan informasi",
@@ -129,24 +206,6 @@
         {
           "title": "Standar Biaya Layanan PPID",
           "url": "https://ppid.purbalinggakab.go.id/standar-biaya"
-        }
-      ]
-    },
-    {
-      "id": "faq-3",
-      "keywords": [
-        "waktu",
-        "berapa lama",
-        "jangka waktu",
-        "durasi proses",
-        "hari kerja"
-      ],
-      "question": "Berapa lama jangka waktu proses pelayanan informasi?",
-      "answer": "Sesuai UU KIP No. 14 Tahun 2008 dan Standar Layanan PPID Purbalingga: * **Pemberitahuan Tertulis**: Maksimal **10 (sepuluh) hari kerja** sejak permohonan dinyatakan lengkap. * **Perpanjangan Waktu**: Dapat diperpanjang maksimal **7 (tujuh) hari kerja** dengan alasan tertulis jika informasi yang diminta membutuhkan koordinasi lebih lanjut.",
-      "links": [
-        {
-          "title": "Standar Operasional Prosedur (SOP)",
-          "url": "https://ppid.purbalinggakab.go.id/sop-layanan"
         }
       ]
     },
