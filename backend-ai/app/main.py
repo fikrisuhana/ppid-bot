@@ -60,53 +60,19 @@ def ask_chatbot(req: AskRequest):
         cached_res["source"] = "cache"
         return cached_res
 
-    # 2. Cek RAG Database Lokal PPID Purbalingga (0 Token Cost)
+    # 2. Cek RAG Database Lokal & Format Baku PPID Purbalingga (0 Token Cost)
     match = rag_engine.search_faq(question)
     if match:
         response_data = {
             "status": "success",
             "answer": match["answer"],
             "links": match["links"],
-            "source": "knowledge_base",
+            "source": match.get("source", "knowledge_base"),
             "confidence": match["confidence"]
         }
         cache_instance.set(question, response_data)
         return response_data
 
-    # 3. Panggil DeepSeek LLM (Jika API Key ada & pertanyaan butuh penalaran khusus)
-    llm_answer = rag_engine.query_deepseek_llm(question)
-    if llm_answer:
-        response_data = {
-            "status": "success",
-            "answer": llm_answer,
-            "links": [
-                {"title": "Portal PPID Purbalingga", "url": "https://ppid.purbalinggakab.go.id"},
-                {"title": "Formulir Permohonan Informasi", "url": "https://ppid.purbalinggakab.go.id/permohonan-informasi"}
-            ],
-            "source": "deepseek_llm",
-            "confidence": 0.85
-        }
-        cache_instance.set(question, response_data)
-        return response_data
-
-    # 4. Fallback Default jika tidak ada di DB & DeepSeek tidak aktif
-    org = rag_engine.get_org_info()
-    fallback_answer = (
-        "Mohon maaf, saya belum menemukan jawaban yang tepat untuk pertanyaan tersebut di basis data PPID Purbalingga. 🙇‍♂️\n\n"
-        "Anda dapat menanyakan hal seputar:\n"
-        "• Alur dan syarat permohonan informasi publik\n"
-        "• Jangka waktu layanan dan biaya (Gratis)\n"
-        "• Prosedur pengajuan keberatan\n\n"
-        f"Atau silakan hubungi langsung Desk Layanan PPID Utama Dinkominfo Purbalingga di telepon **{org.get('phone', '(0281) 891040')}**."
-    )
-    fallback_data = {
-        "status": "success",
-        "answer": fallback_answer,
-        "links": [
-            {"title": "Portal Resmi PPID Purbalingga", "url": org.get("portal_url", "https://ppid.purbalinggakab.go.id")},
-            {"title": "Kanal Aduan & Kontak", "url": "https://ppid.purbalinggakab.go.id/kontak"}
-        ],
-        "source": "fallback",
-        "confidence": 0.0
-    }
+    # 3. Format Balasan Baku Standar PPID (Fallback Terstruktur)
+    fallback_data = rag_engine.format_fallback_response(question)
     return fallback_data
