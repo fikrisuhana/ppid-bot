@@ -35,17 +35,17 @@ class RAGEngine:
         words = q.split()
         
         # 1. Salam / Sapaan
-        greetings = ["halo", "hallo", "hai", "hi", "selamat pagi", "selamat siang", "selamat sore", "selamat malam", "assalamualaikum", "assalamu alaikum", "pagi", "siang", "sore", "malam", "ping", "p", "tes", "test"]
-        if q in greetings or any(w in ["halo", "hallo", "hai", "assalamualaikum"] for w in words):
+        greetings = ["halo", "hallo", "hai", "hei", "hi", "selamat pagi", "selamat siang", "selamat sore", "selamat malam", "assalamualaikum", "assalamu alaikum", "pagi", "siang", "sore", "malam", "ping", "p", "tes", "test", "halo bot", "hai bot"]
+        if q in greetings or any(g in q for g in ["selamat pagi", "selamat siang", "selamat sore", "selamat malam", "assalamualaikum"]) or any(w in ["halo", "hallo", "hai"] for w in words):
             return {
                 "answer": (
                     "Selamat Datang di **PPIDbot - Layanan Informasi Publik Kabupaten Purbalingga**! 👋🏛️\n\n"
-                    "Saya asisten virtual yang siap membantu Anda mendapatkan informasi seputar:\n"
-                    "• 📋 **Prosedur & Syarat Permohonan Informasi Publik**\n"
+                    "Saya asisten virtual resmi yang siap membantu Anda memperoleh informasi publik seputar:\n"
+                    "• 📋 **Prosedur & Syarat Permohonan Informasi**\n"
                     "• ⏱️ **Jangka Waktu Layanan & Biaya (Gratis Rp 0)**\n"
                     "• 🏢 **Daftar 18 Dinas / OPD Pemerintah Kabupaten Purbalingga**\n"
                     "• ⚖️ **Tata Cara Pengajuan Keberatan Informasi Publik**\n"
-                    "• 📍 **Alamat & Kontak Desk Layanan PPID Dinkominfo**\n\n"
+                    "• 📍 **Alamat & Kontak Meja Layanan PPID Dinkominfo**\n\n"
                     "Silakan ketik pertanyaan Anda, atau pilih salah satu menu di **⚡ Pertanyaan Template**."
                 ),
                 "links": [
@@ -58,8 +58,8 @@ class RAGEngine:
             }
 
         # 2. Ucapan Terima Kasih
-        gratitude = ["terima kasih", "makasih", "matur nuwun", "suwun", "thanks", "thank you", "tq", "mksh", "ok makasih", "oke makasih"]
-        if q in gratitude or any(w in ["makasih", "suwun", "thanks"] for w in words):
+        gratitude_phrases = ["terima kasih", "makasih", "matur nuwun", "suwun", "thanks", "thank you", "tq", "mksh", "hatur nuhun", "tengkyu"]
+        if any(g in q for g in gratitude_phrases):
             return {
                 "answer": (
                     "Sama-sama! Senang bisa membantu Anda. 🙏😊\n\n"
@@ -111,19 +111,19 @@ class RAGEngine:
                 highest_score = score
                 best_match = faq
 
-        # Threshold pencarian
-        if highest_score >= 0.45 and best_match:
+        # Threshold pencarian: Curated FAQs need >= 0.5, scraped articles need >= 0.8
+        min_threshold = 0.5 if (best_match and best_match.get("is_curated", False)) else 0.8
+        
+        if highest_score >= min_threshold and best_match:
             is_curated = best_match.get("is_curated", False)
             raw_answer = best_match["answer"]
             links = best_match.get("links", [])
             
-            # Format baku berdasarkan tipe data
             if is_curated:
                 formatted_answer = raw_answer.strip()
                 if "💡" not in formatted_answer:
                     formatted_answer += "\n\n💡 *Butuh bantuan lebih lanjut? Silakan gunakan fitur **Konsultasi Publik** di pojok kanan bawah untuk terhubung langsung dengan petugas PPID.*"
             else:
-                # Format Baku untuk Artikel / Sitemap Scraped Posts
                 clean_c = re.sub(r'\[vc_[^\]]+\]', '', raw_answer)
                 clean_c = re.sub(r'https?://[^\s]+', '', clean_c)
                 clean_c = re.sub(r'\s+', ' ', clean_c).strip()
