@@ -11,6 +11,64 @@
   },
   "faqs": [
     {
+      "question": "Bagaimana cara mengajukan permohonan informasi?",
+      "keywords": [
+        "permohonan informasi",
+        "cara mengajukan",
+        "prosedur permohonan",
+        "minta informasi",
+        "alur permohonan",
+        "syarat informasi",
+        "mengajukan permohonan",
+        "tata cara permohonan"
+      ],
+      "answer": "Untuk mengajukan permohonan informasi publik di PPID Kabupaten Purbalingga, Anda dapat mengikuti langkah-langkah berikut:\n\n1. **Secara Online**: Kunjungi menu *Permohonan Informasi* pada portal resmi PPID (http://ppid.purbalinggakab.go.id/permohonan-informasi/) dan isi formulir online yang tersedia dengan melampirkan foto KTP/identitas diri.\n2. **Secara Langsung (Offline)**: Datang langsung ke Desk Layanan Informasi PPID di Kantor Dinas Komunikasi dan Informatika (Dinkominfo) Kab. Purbalingga, Jl. Letkol Isdiman No. 17A Purbalingga, dengan membawa kartu identitas diri.\n3. Petugas PPID akan memberikan tanda bukti permohonan dan memproses permohonan Anda dalam waktu maksimal 10 hari kerja (dapat diperpanjang 7 hari kerja).\n\nLayanan permohonan informasi ini bersifat **GRATIS (Rp 0)**.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/permohonan-informasi/",
+      "links": [
+        {
+          "title": "Formulir Permohonan Informasi",
+          "url": "http://ppid.purbalinggakab.go.id/permohonan-informasi/"
+        },
+        {
+          "title": "Mekanisme Pelayanan Informasi",
+          "url": "http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/"
+        }
+      ]
+    },
+    {
+      "question": "Bagaimana tata cara pengajuan keberatan informasi publik di PPID Purbalingga?",
+      "keywords": [
+        "keberatan informasi",
+        "pengajuan keberatan",
+        "keberatan ppid",
+        "tidak puas informasi",
+        "sengketa informasi"
+      ],
+      "answer": "Tata cara pengajuan keberatan informasi publik di PPID Purbalingga:\n\n1. Pengajuan keberatan disampaikan kepada Atasan PPID paling lambat 30 hari kerja setelah ditemukannya alasan keberatan (misal: permohonan ditolak, informasi tidak diberikan, biaya tidak wajar, atau melebihi batas waktu).\n2. Pemohon mengisi formulir keberatan baik secara online melalui portal PPID maupun langsung di Meja Layanan PPID Dinkominfo Purbalingga.\n3. Atasan PPID wajib memberikan tanggapan tertulis atas keberatan paling lambat 30 hari kerja sejak diterimanya pengajuan keberatan secara lengkap.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/formulir-keberatan/",
+      "links": [
+        {
+          "title": "Formulir Keberatan Informasi",
+          "url": "http://ppid.purbalinggakab.go.id/formulir-keberatan/"
+        }
+      ]
+    },
+    {
+      "question": "Apa saja syarat untuk mengajukan permohonan informasi publik?",
+      "keywords": [
+        "syarat permohonan",
+        "syarat informasi",
+        "dokumen persyaratan",
+        "kelengkapan permohonan",
+        "ktp"
+      ],
+      "answer": "Persyaratan pengajuan permohonan informasi publik:\n1. Identitas diri yang sah: Fotokopi/Scan KTP atau SIM bagi Pemohon Perorangan.\n2. Akta Notaris/Pengesahan Badan Hukum bagi Pemohon Badan Hukum.\n3. Surat Kuasa dan identitas pemberi kuasa bagi permohonan yang dikuasakan.\n4. Mengisi formulir permohonan dengan mencantumkan nama, alamat, nomor telepon/email, serta rincian informasi yang dibutuhkan dan tujuan penggunaannya.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/",
+      "links": [
+        {
+          "title": "Mekanisme Pelayanan Informasi",
+          "url": "http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/"
+        }
+      ]
+    },
+    {
       "id": "faq-0",
       "keywords": [
         "apa itu ppid",
@@ -44,7 +102,7 @@
         "prosedur"
       ],
       "question": "Bagaimana cara mengajukan permohonan informasi publik di PPID Purbalingga?",
-      "answer": "Permohonan informasi publik di PPID Kabupaten Purbalingga dapat diajukan secara online maupun offline:\n\n1. **Online**: Kunjungi website resmi PPID Purbalingga lalu isi formulir Permohonan Informasi Publik online.\n2. **Offline / Langsung**: Datang ke Desk Layanan PPID Utama di Kantor Dinkominfo Kab. Purbalingga dengan membawa identitas resmi (KTP untuk perorangan, Akta/SK Kemenkumham untuk Lembaga/Ormas).\n3. Petugas akan memverifikasi permohonan dan memberikan tanda bukti penerimaan.",
+      "answer": "Permohonan informasi publik di PPID Kabupaten Purbalingga dapat diajukan secara online maupun offline: 1. **Online**: Kunjungi website resmi PPID Purbalingga lalu isi formulir Permohonan Informasi Publik online. 2. **Offline / Langsung**: Datang ke Desk Layanan PPID Utama di Kantor Dinkominfo Kab. Purbalingga dengan membawa identitas resmi (KTP untuk perorangan, Akta/SK Kemenkumham untuk Lembaga/Ormas). 3. Petugas akan memverifikasi permohonan dan memberikan tanda bukti penerimaan.",
       "links": [
         {
           "title": "Formulir Permohonan Informasi Online",
@@ -66,7 +124,7 @@
         "ongkos"
       ],
       "question": "Berapa biaya untuk permohonan informasi publik?",
-      "answer": "Pelayanan informasi publik di PPID Kabupaten Purbalingga adalah **GRATIS (Rp 0)**. Pemohon tidak dipungut biaya pendaftaran atau administrasi.\n\n*Catatan*: Jika pemohon meminta penggandaan dokumen dalam bentuk hardcopy (fotokopi) atau media rekam fisik, biaya penggandaan/media tersebut dapat ditanggung oleh pemohon sesuai ketentuan.",
+      "answer": "Pelayanan informasi publik di PPID Kabupaten Purbalingga adalah **GRATIS (Rp 0)**. Pemohon tidak dipungut biaya pendaftaran atau administrasi. *Catatan*: Jika pemohon meminta penggandaan dokumen dalam bentuk hardcopy (fotokopi) atau media rekam fisik, biaya penggandaan/media tersebut dapat ditanggung oleh pemohon sesuai ketentuan.",
       "links": [
         {
           "title": "Standar Biaya Layanan PPID",
@@ -84,7 +142,7 @@
         "hari kerja"
       ],
       "question": "Berapa lama jangka waktu proses pelayanan informasi?",
-      "answer": "Sesuai UU KIP No. 14 Tahun 2008 dan Standar Layanan PPID Purbalingga:\n\n* **Pemberitahuan Tertulis**: Maksimal **10 (sepuluh) hari kerja** sejak permohonan dinyatakan lengkap.\n* **Perpanjangan Waktu**: Dapat diperpanjang maksimal **7 (tujuh) hari kerja** dengan alasan tertulis jika informasi yang diminta membutuhkan koordinasi lebih lanjut.",
+      "answer": "Sesuai UU KIP No. 14 Tahun 2008 dan Standar Layanan PPID Purbalingga: * **Pemberitahuan Tertulis**: Maksimal **10 (sepuluh) hari kerja** sejak permohonan dinyatakan lengkap. * **Perpanjangan Waktu**: Dapat diperpanjang maksimal **7 (tujuh) hari kerja** dengan alasan tertulis jika informasi yang diminta membutuhkan koordinasi lebih lanjut.",
       "links": [
         {
           "title": "Standar Operasional Prosedur (SOP)",
@@ -121,7 +179,7 @@
         "dikecualikan"
       ],
       "question": "Apa saja jenis klasifikasi informasi publik yang tersedia?",
-      "answer": "Informasi publik diklasifikasikan menjadi 4 kategori:\n1. **Informasi Berkala**: Profil Pemkab, Laporan Keuangan, Rencana Kerja, DPA/APBD.\n2. **Informasi Serta Merta**: Peringatan dini kebencanaan, darurat kesehatan, atau ancaman keselamatan umum.\n3. **Informasi Setiap Saat**: Daftar regulasi daerah (Perda/Perbup), SOP, hasil penelitian, perjanjian kerjasama.\n4. **Informasi Dikecualikan**: Rahasia negara, rahasia bisnis, atau privasi pribadi sesuai uji konsekuensi.",
+      "answer": "Informasi publik diklasifikasikan menjadi 4 kategori: 1. **Informasi Berkala**: Profil Pemkab, Laporan Keuangan, Rencana Kerja, DPA/APBD. 2. **Informasi Serta Merta**: Peringatan dini kebencanaan, darurat kesehatan, atau ancaman keselamatan umum. 3. **Informasi Setiap Saat**: Daftar regulasi daerah (Perda/Perbup), SOP, hasil penelitian, perjanjian kerjasama. 4. **Informasi Dikecualikan**: Rahasia negara, rahasia bisnis, atau privasi pribadi sesuai uji konsekuensi.",
       "links": [
         {
           "title": "Daftar Informasi Publik (DIP) Purbalingga",
@@ -141,7 +199,7 @@
         "call center"
       ],
       "question": "Di mana lokasi kantor PPID dan jam operasional layanannya?",
-      "answer": "Desk Layanan PPID Utama Kab. Purbalingga beralamat di:\n📍 **Dinas Komunikasi dan Informatika Kab. Purbalingga**\nJl. Letkol Isdiman No. 17A, Purbalingga, Jawa Tengah 53313\n\n🕒 **Jam Operasional Layanan**:\n- Senin - Kamis: 07.30 - 15.30 WIB\n- Jumat: 07.30 - 14.30 WIB\n- Sabtu, Minggu & Hari Libur Nasional: Tutup (Layanan online tetap aktif 24 jam)",
+      "answer": "Desk Layanan PPID Utama Kab. Purbalingga beralamat di: 📍 **Dinas Komunikasi dan Informatika Kab. Purbalingga** Jl. Letkol Isdiman No. 17A, Purbalingga, Jawa Tengah 53313 🕒 **Jam Operasional Layanan**: - Senin - Kamis: 07.30 - 15.30 WIB - Jumat: 07.30 - 14.30 WIB - Sabtu, Minggu & Hari Libur Nasional: Tutup (Layanan online tetap aktif 24 jam)",
       "links": [
         {
           "title": "Peta Lokasi & Kontak PPID",
@@ -262,7 +320,7 @@
         "pengumuman",
         "informasi"
       ],
-      "answer": "Pemerintah Kabupaten Purbalingga selaku Badan Publik wajib mengumumkan Informasi Publik yang Wajib Diumumkan dan dan Disediakan. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan dilaksanakan dengan ketentuan sebagai berikut:a. menggunakan bahasa Indonesia yang baik dan benar serta mudah dipahami; danb. mempertimbangkan penggunaan bahasa yang digunakan penduduk setempat.  Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan disebarluaskan diantaranya melalui:a. papan pengumuman;b. situs web PPID dan/atau situs web resmi lain di lingkungan Pemkab Purbalingga;c. media sosial PPID dan/ atau media sosial resmi lain di lingkungan Pemkab Purbalingga;d. aplikasi berbasis teknologi informasi; dane. ditempatkan pada tempat yang mudah di akses publik. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan wajib memperhatikan kemudahan aksesibilitas bagi Penyandang Disabilitas. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan paling sedikit dilengkapi dengan audio dan visual.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/standar-pengumuman-informasi/",
+      "answer": "Pemerintah Kabupaten Purbalingga selaku Badan Publik wajib mengumumkan Informasi Publik yang Wajib Diumumkan dan dan Disediakan. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan dilaksanakan dengan ketentuan sebagai berikut:a. menggunakan bahasa Indonesia yang baik dan benar serta mudah dipahami; danb. mempertimbangkan penggunaan bahasa yang digunakan penduduk setempat. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan disebarluaskan diantaranya melalui:a. papan pengumuman;b. situs web PPID dan/atau situs web resmi lain di lingkungan Pemkab Purbalingga;c. media sosial PPID dan/ atau media sosial resmi lain di lingkungan Pemkab Purbalingga;d. aplikasi berbasis teknologi informasi; dane. ditempatkan pada tempat yang mudah di akses publik. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan wajib memperhatikan kemudahan aksesibilitas bagi Penyandang Disabilitas. Pengumuman Informasi Publik yang Wajib Diumumkan dan Disediakan paling sedikit dilengkapi dengan audio dan visual.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/standar-pengumuman-informasi/",
       "url": "http://ppid.purbalinggakab.go.id/standar-pengumuman-informasi/"
     },
     {
@@ -894,7 +952,7 @@
         "register",
         "permohonan"
       ],
-      "answer": "No Tanggal Nama Alamat Nomor Kontak Pekerjaan Informasi yang Diminta Tujuan Penggunaan Informasi Status Informasi Bentuk Informasi yang Dikuasai Jenis Permohonan Keputusan Alasan Penolakan Hari dan Tanggal Biaya &amp; Cara Pembayaran Dibawah Pengawasan Belum Didokumentasikan Softcopy Hardcopy Melihat/Mengetahui Meminta Salinan Pemberitahuan Tertulis Pemberian Informasi Biaya Cara Ya Tidak 1 24/08/2023 Teteng R. Purbalingga - Swasta LPPD Kabupaten Purbalingga Tahun 2022 Kontrol Sosial V &nbsp; &nbsp; V &nbsp; &nbsp; V Dapat Diberikan &nbsp; Jumat, 25/08/2023 Selasa, 29/09/2023 Gratis &nbsp; 2 12/09/2023 Abimanyu P. Purbalingga - Mahasiswa Data Pertumbuhan Ekonomi Purbalingga Tahun 2022 Pemenuhan dalam tugas PTIK Departemen Studi Pembangunan ITS V &nbsp; &nbsp; V &nbsp; &nbsp; V Dapat Diberikan &nbsp; Selasa, 12/09/2023 Rabu, 13/09/2023 Gratis &nbsp; 3 17//09/2023 Wisnu Dwi A. Surakarta - PPPK Disbudapar Kota Surakarta Nama Ketua Umum, Ketua Harian, Alamat Kantor Dekranasda Kab. Purbalingga Mendata tamu undangan HUT Dekranas Ke-44 V &nbsp; &nbsp; V &nbsp; &nbsp; V Dapat Diberikan &nbsp; Senin, 18/09/2023 Selasa, 19/09/2023 Gratis &nbsp; 4 25/09/2023 Denanda Febry K. Jakarta Pusat - ASN Laporan Realisasi Anggaran Desa Slinga, Kecamatan Kaligondang, dan Kabupaten Purbalingga Realisasi UU No. 14 Tahun 2008 dan Upaya Kontrol Sosial V &nbsp; &nbsp; V &nbsp; &nbsp; V Dapat Diberikan &nbsp; Kamis, 28/09/2023 Senin, 09/10/2023 Gratis &nbsp; 5 19/10/2023 Amalia R. Purbalingga - Mahasisw\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/daftar-register-permohonan/",
+      "answer": "No Tanggal Nama Alamat Nomor Kontak Pekerjaan Informasi yang Diminta Tujuan Penggunaan Informasi Status Informasi Bentuk Informasi yang Dikuasai Jenis Permohonan Keputusan Alasan Penolakan Hari dan Tanggal Biaya & Cara Pembayaran Dibawah Pengawasan Belum Didokumentasikan Softcopy Hardcopy Melihat/Mengetahui Meminta Salinan Pemberitahuan Tertulis Pemberian Informasi Biaya Cara Ya Tidak 1 24/08/2023 Teteng R. Purbalingga - Swasta LPPD Kabupaten Purbalingga Tahun 2022 Kontrol Sosial V V V Dapat Diberikan Jumat, 25/08/2023 Selasa, 29/09/2023 Gratis 2 12/09/2023 Abimanyu P. Purbalingga - Mahasiswa Data Pertumbuhan Ekonomi Purbalingga Tahun 2022 Pemenuhan dalam tugas PTIK Departemen Studi Pembangunan ITS V V V Dapat Diberikan Selasa, 12/09/2023 Rabu, 13/09/2023 Gratis 3 17//09/2023 Wisnu Dwi A. Surakarta - PPPK Disbudapar Kota Surakarta Nama Ketua Umum, Ketua Harian, Alamat Kantor Dekranasda Kab. Purbalingga Mendata tamu undangan HUT Dekranas Ke-44 V V V Dapat Diberikan Senin, 18/09/2023 Selasa, 19/09/2023 Gratis 4 25/09/2023 Denanda Febry K. Jakarta Pusat - ASN Laporan Realisasi Anggaran Desa Slinga, Kecamatan Kaligondang, dan Kabupaten Purbalingga Realisasi UU No. 14 Tahun 2008 dan Upaya Kontrol Sosial V V V Dapat Diberikan Kamis, 28/09/2023 Senin, 09/10/2023 Gratis 5 19/10/2023 Amalia R. Purbalingga - Mahasisw\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/daftar-register-permohonan/",
       "url": "http://ppid.purbalinggakab.go.id/daftar-register-permohonan/"
     },
     {
@@ -1336,7 +1394,7 @@
         "formulir",
         "keberatan"
       ],
-      "answer": "[vc_row full_width=\"stretch_row\"][vc_column shadow=\"shadow2\"][vc_empty_space height=\"48px\"][vc_column_text] Sampaikan permohonan keberatan dengan jelas agar kami dapat menindak lanjuti permohonan Anda. [/vc_column_text][vc_empty_space height=\"48px\"][vc_raw_html]JTVCd3Bmb3JtcyUyMGlkJTNEJTIyMTAxNzUlMjIlMjB0aXRsZSUzRCUyMmZhbHNlJTIyJTVE[/vc_raw_html][/vc_column][/vc_row]\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/formulir-keberatan/",
+      "answer": "Sampaikan permohonan keberatan dengan jelas agar kami dapat menindak lanjuti permohonan Anda.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/formulir-keberatan/",
       "url": "http://ppid.purbalinggakab.go.id/formulir-keberatan/"
     },
     {
@@ -1347,7 +1405,7 @@
         "permohonan",
         "informasi"
       ],
-      "answer": "[vc_row full_width=\"stretch_row\"][vc_column shadow=\"shadow2\"][vc_empty_space height=\"48px\"][vc_column_text] Sampaikan permohonan informasi dengan benar agar permintaan informasi dapat segera diproses. [/vc_column_text][vc_empty_space height=\"48px\"][vc_raw_html]JTVCd3Bmb3JtcyUyMGlkJTNEJTIyMTAxNTclMjIlMjB0aXRsZSUzRCUyMmZhbHNlJTIyJTVE[/vc_raw_html][/vc_column][/vc_row]\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/form-permohonan-informasi/",
+      "answer": "Sampaikan permohonan informasi dengan benar agar permintaan informasi dapat segera diproses.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/form-permohonan-informasi/",
       "url": "http://ppid.purbalinggakab.go.id/form-permohonan-informasi/"
     },
     {
@@ -1357,7 +1415,7 @@
         "permohonan",
         "informasi"
       ],
-      "answer": "[vc_row][vc_column][vc_raw_html]JTVCcmV2X3NsaWRlciUyMGFsaWFzJTNEJTIyYmFzaWMtY2FsbG91dDElMjIlNUQlNUIlMkZyZXZfc2xpZGVyJTVE[/vc_raw_html][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height=\"100px\"][/vc_column][/vc_row] [vc_row full_width=\"stretch_row\"][vc_column css_animation=\"fadeInDown\" width=\"1/3\"][vc_single_image image=\"10143\" alignment=\"center\"][vc_column_text] Permohonan Informasi Sampaikan permohonan informasi dengan baik dan benar. [/vc_column_text][/vc_column][vc_column css_animation=\"fadeInDown\" width=\"1/3\"][vc_single_image image=\"10142\" alignment=\"center\"][vc_column_text] Permohonan Keberatan Sampaikan permohonan keberatan atas permintaan informasi anda. [/vc_column_text][/vc_column][vc_column width=\"1/3\"][/vc_column][/vc_row] [vc_row][vc_column][vc_empty_space height=\"120px\"][/vc_column][/vc_row]   Formulir Permohonan Informasi Braille Formulir Keberatan Informasi Braille &nbsp;\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/permohonan-informasi/",
+      "answer": "Permohonan Informasi Sampaikan permohonan informasi dengan baik dan benar. Permohonan Keberatan Sampaikan permohonan keberatan atas permintaan informasi anda. Formulir Permohonan Informasi Braille Formulir Keberatan Informasi Braille\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/permohonan-informasi/",
       "url": "http://ppid.purbalinggakab.go.id/permohonan-informasi/"
     },
     {
@@ -1481,15 +1539,6 @@
       "url": "http://ppid.purbalinggakab.go.id/agenda/"
     },
     {
-      "topic": "Halaman: Beranda",
-      "question": "Informasi tentang Beranda di PPID Purbalingga",
-      "keywords": [
-        "beranda"
-      ],
-      "answer": "[vc_row][vc_column][vc_raw_html]JTVCcmV2X3NsaWRlciUyMGFsaWFzJTNEJTIyYmFzaWMtaGVyby1jb2xsZWN0aW9uMSUyMiU1RCU1QiUyRnJldl9zbGlkZXIlNUQ=[/vc_raw_html][/vc_column][/vc_row][vc_row css=\".vc_custom_1507735505661{margin-bottom: 80px !important;}\"][vc_column][vc_empty_space][vc_empty_space][vc_column_text] Pejabat Pengelola Informasi dan Dokumentasi ( PPID ) Kabupaten Purbalingga [/vc_column_text][vc_row_inner max_width=\"70%\"][vc_column_inner][vc_wp_search][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width=\"1/4\"][vc_single_image image=\"10093\" alignment=\"center\" onclick=\"custom_link\" css_animation=\"fadeInUp\" link=\"http://ppid.purbalinggakab.go.id/mekanisme-pelayanan-informasi-publik/\"][vc_column_text css_animation=\"fadeInUp\"] Tata Cara Permohonan PPID [/vc_column_text][/vc_column_inner][vc_column_inner width=\"1/4\"][vc_single_image image=\"10092\" alignment=\"center\" onclick=\"custom_link\" css_animation=\"fadeInUp\" link=\"http://ppid.purbalinggakab.go.id/permohonan-informasi/\"][vc_column_text css_animation=\"fadeInUp\"] Form Permohonan Informasi [/vc_column_text][/vc_column_inner][vc_column_inner width=\"1/4\"][vc_single_image image=\"10091\" alignment=\"center\" onclick=\"custom_link\" css_animation=\"fadeInUp\" link=\"http://ppid.purbalinggakab.go.id/daftar-informasi-publik-ppid-utama/\"][vc_column_text css_animation=\"fadeInUp\"] Daftar Informasi Publik [/vc_column_text][/vc_column_inner][vc_column_inner width=\"1/4\"][vc_single_image image=\"10090\" alignment=\"center\" onclick=\"custom_link\"\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/",
-      "url": "http://ppid.purbalinggakab.go.id/"
-    },
-    {
       "topic": "Halaman: Daftar PPID Desa",
       "question": "Informasi tentang Daftar PPID Desa di PPID Purbalingga",
       "keywords": [
@@ -1518,7 +1567,7 @@
         "serta",
         "merta"
       ],
-      "answer": "Informasi Publik yang  diumumkan  secara sertamerta mengenai informasi yang mengancam hajat hidup orang banyak dan ketertiban umum. (more&hellip;)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-serta-merta/",
+      "answer": "Informasi Publik yang diumumkan secara sertamerta mengenai informasi yang mengancam hajat hidup orang banyak dan ketertiban umum. (more&hellip;)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-serta-merta/",
       "url": "http://ppid.purbalinggakab.go.id/informasi-serta-merta/"
     },
     {
@@ -1527,7 +1576,7 @@
       "keywords": [
         "layanan"
       ],
-      "answer": "Hak dan Kewajiban Pemohon Informasi   Hak Pemohon Informasi Pemohon informasi berhak memperoleh informasi publik di Pemkab Purbalingga  berdasarkan ketentuan peraturan perundang-undangan dan ketentuan yang ditetapkan Pemkab Purbalingga. Kewajiban Pemohon Informasi Pemohon informasi wajib memenuhi tata cara memperoleh informasi publik Pemkab Purbalingga berdasarkan ketentuan peraturan perundang-undangan dan ketentuan yang ditetapkan Pemkab Purbalingga Pemohon informasi wajib memberikan keterangan mengenai alasan permintaan informasi publik dan tujuan penggunaan informasi publik Pemohon informasi wajib menggunakan informasi publik yang diperoleh dari Pemkab Purbalingga sesuai dengan tujuan penggunaan informasi publik sebagaimana dimaksud pada ayat (2)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/layanan-2/",
+      "answer": "Hak dan Kewajiban Pemohon Informasi Hak Pemohon Informasi Pemohon informasi berhak memperoleh informasi publik di Pemkab Purbalingga berdasarkan ketentuan peraturan perundang-undangan dan ketentuan yang ditetapkan Pemkab Purbalingga. Kewajiban Pemohon Informasi Pemohon informasi wajib memenuhi tata cara memperoleh informasi publik Pemkab Purbalingga berdasarkan ketentuan peraturan perundang-undangan dan ketentuan yang ditetapkan Pemkab Purbalingga Pemohon informasi wajib memberikan keterangan mengenai alasan permintaan informasi publik dan tujuan penggunaan informasi publik Pemohon informasi wajib menggunakan informasi publik yang diperoleh dari Pemkab Purbalingga sesuai dengan tujuan penggunaan informasi publik sebagaimana dimaksud pada ayat (2)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/layanan-2/",
       "url": "http://ppid.purbalinggakab.go.id/layanan-2/"
     },
     {
@@ -1537,18 +1586,8 @@
         "informasi",
         "publik"
       ],
-      "answer": "Pejabat Pengelola Informasi dan Dokumentasi (PPID) PPID adalah kepanjangan dari Pejabat Pengelola Informasi dan Dokumentasi, di mana PPID berfungsi sebagai pengelola dan penyampai dokumen yang dimiliki oleh badan publik sesuai dengan amanat UU 14/2008 tentang Keterbukaan Informasi Publik (KIP). Dengan keberadaan PPID maka masyarakat yang akan menyampaikan permohonan informasi lebih mudah dan tidak berbelit karena dilayani lewat satu pintu. Pejabat Pengelola Informasi dan Dokumentasi (PPID) adalah pejabat yang bertanggung jawab di bidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik. Pejabat Pengelola Informasi dan Dokumentasi Pembantu (PPID Pembantu) adalah pejabat yang melaksanakan tugas dan fungsi sebagai PPID pada Satuan Organisasi Perangkat Daerah di lingkungan Pemerintah Daerah. Pengklasifikasian informasi yang terdiri dari : Informasi yang wajib disediakan dan diumumkan secara berkala; Informasi yang wajib diumumkan secara serta merta; Informasi yang wajib tersedia setiap saat; Informasi yang dikecualikan. Mengoordinasikan dan mengonsolidasikan pengumpulan bahan informasi dan dokumentasi yang ada dilingkungannnya; Menyimpan, mendokumentasikan, menyediakan dan memberi pelayanan informasi yang ada dilingkungannya kepada publik; Melakukan verifikasi bahan informasi publik yang ada di lingkungannya; Melakukan pemutakhiran informasi dan dokumentasi yang ada dilingkungannya; Menyediakana informasi dan dokumentasi yang ada di lingk\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-publik-3/",
+      "answer": "Pejabat Pengelola Informasi dan Dokumentasi (PPID) PPID adalah kepanjangan dari Pejabat Pengelola Informasi dan Dokumentasi, di mana PPID berfungsi sebagai pengelola dan penyampai dokumen yang dimiliki oleh badan publik sesuai dengan amanat UU 14/2008 tentang Keterbukaan Informasi Publik (KIP). Dengan keberadaan PPID maka masyarakat yang akan menyampaikan permohonan informasi lebih mudah dan tidak berbelit karena dilayani lewat satu pintu. Pejabat Pengelola Informasi dan Dokumentasi (PPID) adalah pejabat yang bertanggung jawab di bidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik. Pejabat Pengelola Informasi dan Dokumentasi Pembantu (PPID Pembantu) adalah pejabat yang melaksanakan tugas dan fungsi sebagai PPID pada Satuan Organisasi Perangkat Daerah di lingkungan Pemerintah Daerah. Pengklasifikasian informasi yang terdiri dari : Informasi yang wajib disediakan dan diumumkan secara berkala; Informasi yang wajib diumumkan secara serta merta; Informasi yang wajib tersedia setiap saat; Informasi yang dikecualikan. Mengoordinasikan dan mengonsolidasikan pengumpulan bahan informasi dan dokumentasi yang ada dilingkungannnya; Menyimpan, mendokumentasikan, menyediakan dan memberi pelayanan informasi yang ada dilingkungannya kepada publik; Melakukan verifikasi bahan informasi publik yang ada di lingkungannya; Melakukan pemutakhiran informasi dan dokumentasi yang ada dilingkungannya; Menyediakana informasi dan dokumentasi yang ada di lingk\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-publik-3/",
       "url": "http://ppid.purbalinggakab.go.id/informasi-publik-3/"
-    },
-    {
-      "topic": "Halaman: PPID Utama",
-      "question": "Informasi tentang PPID Utama di PPID Purbalingga",
-      "keywords": [
-        "ppid",
-        "utama"
-      ],
-      "answer": "[download id=\"6587\" template=\"button\"] [download id=\"7196\" template=\"button\"]\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dip-ppid-utama/",
-      "url": "http://ppid.purbalinggakab.go.id/dip-ppid-utama/"
     },
     {
       "topic": "Halaman: Daftar Informasi Publik",
@@ -1558,7 +1597,7 @@
         "informasi",
         "publik"
       ],
-      "answer": "SOP Penyusunan DIP Lihat &nbsp; PPID adalah kepanjangan dari Pejabat Pengelola Informasi dan Dokumentasi, di mana PPID berfungsi sebagai pengelola dan penyampai dokumen yang dimiliki oleh badan publik sesuai dengan amanat UU 14/2008 tentang Keterbukaan Informasi Publik (KIP). Dengan keberadaan PPID maka masyarakat yang akan menyampaikan permohonan informasi lebih mudah dan tidak berbelit karena dilayani lewat satu pintu. Pejabat Pengelola Informasi dan Dokumentasi (PPID) adalah pejabat yang bertanggung jawab di bidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik. Pejabat Pengelola Informasi dan Dokumentasi Pembantu (PPID Pembantu) adalah pejabat yang melaksanakan tugas dan fungsi sebagai PPID pada Satuan Organisasi Perangkat Daerah di lingkungan Pemerintah Daerah.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/daftar-informasi-publik-ppid/",
+      "answer": "SOP Penyusunan DIP Lihat PPID adalah kepanjangan dari Pejabat Pengelola Informasi dan Dokumentasi, di mana PPID berfungsi sebagai pengelola dan penyampai dokumen yang dimiliki oleh badan publik sesuai dengan amanat UU 14/2008 tentang Keterbukaan Informasi Publik (KIP). Dengan keberadaan PPID maka masyarakat yang akan menyampaikan permohonan informasi lebih mudah dan tidak berbelit karena dilayani lewat satu pintu. Pejabat Pengelola Informasi dan Dokumentasi (PPID) adalah pejabat yang bertanggung jawab di bidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik. Pejabat Pengelola Informasi dan Dokumentasi Pembantu (PPID Pembantu) adalah pejabat yang melaksanakan tugas dan fungsi sebagai PPID pada Satuan Organisasi Perangkat Daerah di lingkungan Pemerintah Daerah.\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/daftar-informasi-publik-ppid/",
       "url": "http://ppid.purbalinggakab.go.id/daftar-informasi-publik-ppid/"
     },
     {
@@ -1591,7 +1630,7 @@
         "setiap",
         "saat"
       ],
-      "answer": "Informasi Publik yang disediakan setiap saat dan siap tersedia ketika terdapat permohonan LIHAT INFORMASI SETIAP SAAT (KLIK)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-setiap-saat/",
+      "answer": "Informasi Publik yang disediakan setiap saat dan siap tersedia ketika terdapat permohonan LIHAT INFORMASI SETIAP SAAT (KLIK)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/informasi-setiap-saat/",
       "url": "http://ppid.purbalinggakab.go.id/informasi-setiap-saat/"
     },
     {
@@ -1610,23 +1649,13 @@
       "url": "http://ppid.purbalinggakab.go.id/tahap-perumusan-perda-perbup-dan-sk-bupati-purbalingga/"
     },
     {
-      "topic": "Halaman: Home Clean",
-      "question": "Informasi tentang Home Clean di PPID Purbalingga",
-      "keywords": [
-        "home",
-        "clean"
-      ],
-      "answer": "[vc_row 0=\"\" full_width=\"stretch_row\" equal_height=\"yes\" content_placement=\"middle\" css=\".vc_custom_1499702127280{margin-top: 100px !important;margin-bottom: 10px !important;padding-top: 135px !important;padding-bottom: 135px !important;background-color: #f8f8f8 !important;}\"][vc_column 0=\"\" width=\"1/2\" css=\".vc_custom_1499702093933{padding-top: 0px !important;}\"][/vc_column][vc_column width=\"1/2\"][vc_column_text 0=\"\"][/vc_column_text][/vc_column][/vc_row]\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/home-1/",
-      "url": "http://ppid.purbalinggakab.go.id/home-1/"
-    },
-    {
       "topic": "Halaman: Kontak Kami",
       "question": "Informasi tentang Kontak Kami di PPID Purbalingga",
       "keywords": [
         "kontak",
         "kami"
       ],
-      "answer": "Kontak Jl. Letkol Isdiman No. 5 Telp  ( 0281) 6590726 &nbsp; Alamat Web Komisi Informasi Jawa Tengah\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kontak-kami/",
+      "answer": "Kontak Jl. Letkol Isdiman No. 5 Telp ( 0281) 6590726 Alamat Web Komisi Informasi Jawa Tengah\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kontak-kami/",
       "url": "http://ppid.purbalinggakab.go.id/kontak-kami/"
     },
     {
@@ -1658,7 +1687,7 @@
         "dan",
         "misi"
       ],
-      "answer": "A.  Visi Kepala Daerah  Kabupaten Purbalingga Tahun 2021-2026 \"PURBALINGGA YANG MANDIRI DAN BERDAYA SAING MENUJU MASYARAKAT SEJAHTERA YANG BERAKHLAK MULIA\" B.  Misi Kabupaten Purbalingga Menyelenggarakan pemerintahan yang profesional, efektif, inovatif, bersih akuntabel dan demokratis, sehingga mampu memberikan pelayanan secara prima kepada masyarakat; Mendorong kehidupan masyarakat religius yang beriman dan bertaqwa kehadirat Allah SWT / Tuhan YME, serta mengembangkan paham kebangsaan guna mewujudkan terciptanya rasa aman dan tenteram dalam kehidupan bermasyarakat, berbangsa dan bernegara berdasarkan Pancasila dalam bingkai Negara Kesatuan Republik Indonesia; Mengupayakan kecukupan kebutuhan pokok masyarakat utamanya pangan dan papan secara layak; Meningkatkan kualitas sumber daya manusia utamanya melalui peningkatan derajat pendidikan dan derajat kesehatan masyarakat; Mempercepat pertumbuhan dan pemerataan ekonomi masyarakat dengan mendorong simpul simpul perekonomian utamanya dalam industri pengolahan dan manufaktur, pertanian, perdagangan, jasa, pariwisata, UMKM dan ekonomi kreatif dengan tetap berorientasi pada kemitraan dan pengembangan potensi lokal serta didukung dengan penciptaan iklim kondusif untuk pengembangan usaha, investasi dan penciptaan lapangan kerja; Meningkatkan pembangunan berbasis desa dan kawasan perdesaan melalui optimalisasi penyelenggaraan pemerintah desa, pembangunan, pembinaan kemasyarakatan dan pemberdayaan masyarakat desa; Meningkatkan kualita\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/visi-dan-misi/",
+      "answer": "A. Visi Kepala Daerah Kabupaten Purbalingga Tahun 2021-2026 \"PURBALINGGA YANG MANDIRI DAN BERDAYA SAING MENUJU MASYARAKAT SEJAHTERA YANG BERAKHLAK MULIA\" B. Misi Kabupaten Purbalingga Menyelenggarakan pemerintahan yang profesional, efektif, inovatif, bersih akuntabel dan demokratis, sehingga mampu memberikan pelayanan secara prima kepada masyarakat; Mendorong kehidupan masyarakat religius yang beriman dan bertaqwa kehadirat Allah SWT / Tuhan YME, serta mengembangkan paham kebangsaan guna mewujudkan terciptanya rasa aman dan tenteram dalam kehidupan bermasyarakat, berbangsa dan bernegara berdasarkan Pancasila dalam bingkai Negara Kesatuan Republik Indonesia; Mengupayakan kecukupan kebutuhan pokok masyarakat utamanya pangan dan papan secara layak; Meningkatkan kualitas sumber daya manusia utamanya melalui peningkatan derajat pendidikan dan derajat kesehatan masyarakat; Mempercepat pertumbuhan dan pemerataan ekonomi masyarakat dengan mendorong simpul simpul perekonomian utamanya dalam industri pengolahan dan manufaktur, pertanian, perdagangan, jasa, pariwisata, UMKM dan ekonomi kreatif dengan tetap berorientasi pada kemitraan dan pengembangan potensi lokal serta didukung dengan penciptaan iklim kondusif untuk pengembangan usaha, investasi dan penciptaan lapangan kerja; Meningkatkan pembangunan berbasis desa dan kawasan perdesaan melalui optimalisasi penyelenggaraan pemerintah desa, pembangunan, pembinaan kemasyarakatan dan pemberdayaan masyarakat desa; Meningkatkan kualita\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/visi-dan-misi/",
       "url": "http://ppid.purbalinggakab.go.id/visi-dan-misi/"
     },
     {
@@ -1678,7 +1707,7 @@
         "pelayanan",
         "informasi"
       ],
-      "answer": "Laporan Tahunan Permintaan Informasi Publik Tahun 2014 Laporan Pelaksanaan Tugas Pelayanan Informasi Tahun 2014 laporan-pelayanan-informasi-tahun-2015 laporan-pelayanan-informasi-publik-kabupaten-purbalingga-bulan-januari-s-d-september-2016 Pelayanan Informasi tahun 2016  s/d september 2016 : Jumlah permohonan informasi publik yang diterima : 35 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 35 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil Pelayanan Informasi Tahun 2015 : Jumlah permohonan informasi publik yang diterima : 27 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 27 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil Pelayanan Informasi Tahun 2014 : Jumlah permohonan informasi publik yang diterima : 32 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 32 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-pelayanan-informasi-2/",
+      "answer": "Laporan Tahunan Permintaan Informasi Publik Tahun 2014 Laporan Pelaksanaan Tugas Pelayanan Informasi Tahun 2014 laporan-pelayanan-informasi-tahun-2015 laporan-pelayanan-informasi-publik-kabupaten-purbalingga-bulan-januari-s-d-september-2016 Pelayanan Informasi tahun 2016 s/d september 2016 : Jumlah permohonan informasi publik yang diterima : 35 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 35 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil Pelayanan Informasi Tahun 2015 : Jumlah permohonan informasi publik yang diterima : 27 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 27 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil Pelayanan Informasi Tahun 2014 : Jumlah permohonan informasi publik yang diterima : 32 Jumlah permohonan informasi publik yang dikabulkan sebagian atau seluruhnya : 32 Jumlah penolakan permohonan informasi publik : Nihil Alasan penolakan permohonan informasi publik : Nihil\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-pelayanan-informasi-2/",
       "url": "http://ppid.purbalinggakab.go.id/laporan-pelayanan-informasi-2/"
     },
     {
@@ -1723,7 +1752,7 @@
         "dasar",
         "hukum"
       ],
-      "answer": "Berikut adalah dasar hukum ppid Kabupaten Purbalingga: Undang Undang No 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik Undang Undang No 14 Tahun 2008 tentang Keterbukaan Informasi Publik Undang Undang No 27 Tahun 2022 tentang Perlindungan Data Pribadi Peraturan Daerah Kabupaten Purbalingga Nomor 11 Tahun 2025 tentang Keterbukaan Informasi Publik Peraturan Bupati Nomor 31 Tahun 2022 Tentang Standar Layanan Informasi Publik Pemerintah Daerah sebagaimana telah diubah dengan Peraturan Bupati Nomor 32 Tahun 2026  Peraturan Bupati Nomor 32 Tahun 2026 Tentang Perubahan Peraturan Bupati Nomor 31 Tahun 2022 Tentang Standar Layanan Informasi Publik Pemerintah Daerah Peraturan Pemerintah Nomor 17 Tahun 2025 tentang Tata Kelola Penyelenggaraan Sistem Elektronik Dalam Perlindungan Anak Peraturan KI Nomor 1 Tahun 2021 Tentang Standar Layanan Informasi Publik Peraturan KI Nomor 1 Tahun 2013 Tentang Prosedur Penyelesaian Informasi Publik Peraturan Menteri Dalam Negeri RI Nomor 2 Tahun 2026 Tentang Pedoman Pengelolaan Layanan Informasi Publik di Lingkungan Kementerian Dalam Negeri, Pemerintah Daerah, dan Pemerintah Desa Keputusan Bupati Purbalingga Nomor 39 Tahun 2017 tentang Pengelola Layanan Informasi Dan Dokumentasi Keputusan Bupati Nomor 555/130 Tahun 2023 Tentang Pembentukan PPID dan PPID Pelaksana pada Badan Publik di Lingkungan Pemerintah Daerah  * Klik daftar link diatas untuk mengunduh (download)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dasar-hukum/",
+      "answer": "Berikut adalah dasar hukum ppid Kabupaten Purbalingga: Undang Undang No 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik Undang Undang No 14 Tahun 2008 tentang Keterbukaan Informasi Publik Undang Undang No 27 Tahun 2022 tentang Perlindungan Data Pribadi Peraturan Daerah Kabupaten Purbalingga Nomor 11 Tahun 2025 tentang Keterbukaan Informasi Publik Peraturan Bupati Nomor 31 Tahun 2022 Tentang Standar Layanan Informasi Publik Pemerintah Daerah sebagaimana telah diubah dengan Peraturan Bupati Nomor 32 Tahun 2026 Peraturan Bupati Nomor 32 Tahun 2026 Tentang Perubahan Peraturan Bupati Nomor 31 Tahun 2022 Tentang Standar Layanan Informasi Publik Pemerintah Daerah Peraturan Pemerintah Nomor 17 Tahun 2025 tentang Tata Kelola Penyelenggaraan Sistem Elektronik Dalam Perlindungan Anak Peraturan KI Nomor 1 Tahun 2021 Tentang Standar Layanan Informasi Publik Peraturan KI Nomor 1 Tahun 2013 Tentang Prosedur Penyelesaian Informasi Publik Peraturan Menteri Dalam Negeri RI Nomor 2 Tahun 2026 Tentang Pedoman Pengelolaan Layanan Informasi Publik di Lingkungan Kementerian Dalam Negeri, Pemerintah Daerah, dan Pemerintah Desa Keputusan Bupati Purbalingga Nomor 39 Tahun 2017 tentang Pengelola Layanan Informasi Dan Dokumentasi Keputusan Bupati Nomor 555/130 Tahun 2023 Tentang Pembentukan PPID dan PPID Pelaksana pada Badan Publik di Lingkungan Pemerintah Daerah * Klik daftar link diatas untuk mengunduh (download)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dasar-hukum/",
       "url": "http://ppid.purbalinggakab.go.id/dasar-hukum/"
     },
     {
@@ -1733,7 +1762,7 @@
         "peraturan",
         "bupati"
       ],
-      "answer": "PERATURAN BUPATI PURBALINGGA NOMOR  41 TAHUN 2012 TENTANG RENCANA KERJA PEMERINTAH DAERAH  KABUPATEN PURBALINGGA TAHUN 2013.  PERATURAN BUPATI RKPD PURBALINGGA 2013 &nbsp;\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/peraturan-bupati-3/",
+      "answer": "PERATURAN BUPATI PURBALINGGA NOMOR 41 TAHUN 2012 TENTANG RENCANA KERJA PEMERINTAH DAERAH KABUPATEN PURBALINGGA TAHUN 2013. PERATURAN BUPATI RKPD PURBALINGGA 2013\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/peraturan-bupati-3/",
       "url": "http://ppid.purbalinggakab.go.id/peraturan-bupati-3/"
     },
     {
@@ -1753,7 +1782,7 @@
         "peraturan",
         "daerah"
       ],
-      "answer": "Perbup No 23 Tahun 2023 Tentang Surat Elektronik http://ppid.purbalinggakab.go.id/wp-content/uploads/2023/09/Perbup-28-th-2023_sertifikat-elektronik.pdf Perda Nomor 03 Tahun 2022 Tentang Retribusi Persetujuan Bangunan Gedung https://jdih.purbalinggakab.go.id/apps/dokumen/perda/dea421ea-201a-4d0b-8bae-d59d1e22b7ab/detail Perda Nomor 04 Tahun 2022 Tentang Retribusi Rencana Tenaga Kerja Asing https://jdih.purbalinggakab.go.id/apps/dokumen/perda/e3258bed-fc15-4dc6-a792-ac1bb20c1ec4/detail [wc_accordion collapse=\"1\"][wc_accordion_section title=\"PERDA TAHUN 2000\"] PERDA NOMOR 3 TAHUN 2000 TENTANG PEMBENTUKAN, ORGANISASI DAN TATAKERJA BALAI INFORMASI DAN PENYULUHAN PERTANIAN PERDA NOMOR 4 TAHUN 2000 TENTANG RETRIBUSI PEMAKAIAN KEKAYAAN DAERAH PERDA NOMOR 5 TAHUN 2000 TENTANG RETRIBUSI IZIN TRAYEK PERDA NOMOR 6 TAHUN 2000 TENTANG RETRIBUSI PENGGANTIAN BIAYA CETAK KARTU TANDA PENDUDUK DAN AKTA CATATAN SIPIL PERDA NOMOR 7 TAHUN 2000 TENTANG RETRIBUSI PELAYANAN KESEHATAN PADA RUMAH SAKIT UMUMDAERAH PERDA NOMOR 8 TAHUN 2000 TENTANG SISA PERHITUNGAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TA 1999/2000 PERDA NOMOR 9 TAHUN 2000 TENTANG BADAN PERWAKILAN DESA PERDA NOMOR 10 TAHUN 2000 TENTANG SUMBER PENDAPATAN DESA PERDA NOMOR 11 TAHUN 2000 TENTANG ANGGARAN PENDAPATAN DAN BELANJA DESA PERDA NOMOR 12 TAHUN 2000 TENTANG SUSUNAN ORGANISASI DAN TATA KERJA PEMERINTAH DESA PERDA NOMOR 13 TAHUN 2000 TENTANG TATA CARA PENCALONAN, PENGANGKATAN DAN PEMBERHENTIAN PERANGKAT DESA PERDA NOMOR 14 TAHUN 2000\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/peraturan-daerah-2/",
+      "answer": "Perbup No 23 Tahun 2023 Tentang Surat Elektronik http://ppid.purbalinggakab.go.id/wp-content/uploads/2023/09/Perbup-28-th-2023_sertifikat-elektronik.pdf Perda Nomor 03 Tahun 2022 Tentang Retribusi Persetujuan Bangunan Gedung https://jdih.purbalinggakab.go.id/apps/dokumen/perda/dea421ea-201a-4d0b-8bae-d59d1e22b7ab/detail Perda Nomor 04 Tahun 2022 Tentang Retribusi Rencana Tenaga Kerja Asing https://jdih.purbalinggakab.go.id/apps/dokumen/perda/e3258bed-fc15-4dc6-a792-ac1bb20c1ec4/detail PERDA NOMOR 3 TAHUN 2000 TENTANG PEMBENTUKAN, ORGANISASI DAN TATAKERJA BALAI INFORMASI DAN PENYULUHAN PERTANIAN PERDA NOMOR 4 TAHUN 2000 TENTANG RETRIBUSI PEMAKAIAN KEKAYAAN DAERAH PERDA NOMOR 5 TAHUN 2000 TENTANG RETRIBUSI IZIN TRAYEK PERDA NOMOR 6 TAHUN 2000 TENTANG RETRIBUSI PENGGANTIAN BIAYA CETAK KARTU TANDA PENDUDUK DAN AKTA CATATAN SIPIL PERDA NOMOR 7 TAHUN 2000 TENTANG RETRIBUSI PELAYANAN KESEHATAN PADA RUMAH SAKIT UMUMDAERAH PERDA NOMOR 8 TAHUN 2000 TENTANG SISA PERHITUNGAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TA 1999/2000 PERDA NOMOR 9 TAHUN 2000 TENTANG BADAN PERWAKILAN DESA PERDA NOMOR 10 TAHUN 2000 TENTANG SUMBER PENDAPATAN DESA PERDA NOMOR 11 TAHUN 2000 TENTANG ANGGARAN PENDAPATAN DAN BELANJA DESA PERDA NOMOR 12 TAHUN 2000 TENTANG SUSUNAN ORGANISASI DAN TATA KERJA PEMERINTAH DESA PERDA NOMOR 13 TAHUN 2000 TENTANG TATA CARA PENCALONAN, PENGANGKATAN DAN PEMBERHENTIAN PERANGKAT DESA PERDA NOMOR 14 TAHUN 2000\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/peraturan-daerah-2/",
       "url": "http://ppid.purbalinggakab.go.id/peraturan-daerah-2/"
     },
     {
@@ -2067,7 +2096,7 @@
         "penyusunan",
         "dip"
       ],
-      "answer": "Pelaksanaan penyusunan Daftar Informasi Publik tahun 2026 dilaksanakan Kamis (12/3/2026) di Podcast Room &amp; Media Center Dinas Komunikasi dan Informatika selaku Sekretariat PPID Kabupaten Purbalingga Hadir dalam penyusunan kegiatan tersebut perwakilan dari PPID Pelaksana Sekretariat Daerah, BAPPERIDA, BAKEUDA, BPBD, BKPSDM, dan Dinkominfo. Pelaksanaan penyusunan Daftar Informasi Publik tahun 2025 dilaksanakan Rabu (5/3/2025) di Aula Dinas Komunikasi dan Informatika selaku Sekretariat PPID Kabupaten Purbalingga Hadir dalam kegiatan tersebut, admin PPID Pelaksana Sekretariat Daerah, Sekretariat DPRD, Dinkominfo, BAKEUDA, BAPPELITBANGDA, BPBD, Satpol PP, dan DPMPTSP. Berikut link DIP yang telah disahkan: Lihat\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/bukti-pelaksanaan-penyusunan-dip/",
+      "answer": "Pelaksanaan penyusunan Daftar Informasi Publik tahun 2026 dilaksanakan Kamis (12/3/2026) di Podcast Room & Media Center Dinas Komunikasi dan Informatika selaku Sekretariat PPID Kabupaten Purbalingga Hadir dalam penyusunan kegiatan tersebut perwakilan dari PPID Pelaksana Sekretariat Daerah, BAPPERIDA, BAKEUDA, BPBD, BKPSDM, dan Dinkominfo. Pelaksanaan penyusunan Daftar Informasi Publik tahun 2025 dilaksanakan Rabu (5/3/2025) di Aula Dinas Komunikasi dan Informatika selaku Sekretariat PPID Kabupaten Purbalingga Hadir dalam kegiatan tersebut, admin PPID Pelaksana Sekretariat Daerah, Sekretariat DPRD, Dinkominfo, BAKEUDA, BAPPELITBANGDA, BPBD, Satpol PP, dan DPMPTSP. Berikut link DIP yang telah disahkan: Lihat\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/bukti-pelaksanaan-penyusunan-dip/",
       "url": "http://ppid.purbalinggakab.go.id/bukti-pelaksanaan-penyusunan-dip/"
     },
     {
@@ -2105,7 +2134,7 @@
         "informasi",
         "publik"
       ],
-      "answer": "PURBALINGGA INFO – Pemerintah Kabupaten Purbalingga melalui Dinas Komunikasi dan Informatika (Dinkominfo) mengadakan Sosialisasi Pejabat Pengelola Informasi dan Dokumentasi (PPID) di Operation Room Graha Adi Guna, Kamis (12/12/24). Acara ini menghadirkan Komisioner Bidang Penyelesaian Sengketa Informasi Komisi Informasi Provinsi Jawa Tengah, Sutarto, sebagai narasumber yang memaparkan materi tentang Penyusunan Daftar Informasi Publik (DIP), Daftar Informasi Publik yang Dikecualikan (DIK), dan pencegahan sengketa informasi. Plt. Asisten Administrasi Umum Kabupaten Purbalingga, Ato Susanto, mewakili Bupati Purbalingga, Dyah Hayuning Pratiwi, menyampaikan pentingnya keterbukaan informasi publik dalam penyelenggaraan pemerintahan yang baik dan bersih. &nbsp;“Penyusunan DIP dan DIK, serta pencegahan sengketa informasi, adalah langkah penting bagi kita sebagai aparat pemerintah daerah untuk mewujudkan transparansi dan mencegah tindakan koruptif,” ujarnya. Ato menekankan bahwa dinamika informasi yang terus berkembang membutuhkan penyempurnaan dalam pengelolaan PPID. “Informasi yang dulu tidak boleh dibagikan, kini mungkin dapat disampaikan kepada masyarakat. Oleh karena itu, kami berharap peserta sosialisasi dapat mengikuti kegiatan ini dengan baik agar ke depan dapat meningkatkan kinerja PPID di Kabupaten Purbalingga,” tambahnya. Kepala Dinkominfo Purbalingga, Jiah Palupi Twihantarti, menyampaikan bahwa Kabupaten Purbalingga terus mencatatkan peningkatan dalam pengelolaan\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/purbalingga-gelar-sosialisasi-ppid-untuk-tingkatkan-keterbukaan-informasi-publik/",
+      "answer": "PURBALINGGA INFO – Pemerintah Kabupaten Purbalingga melalui Dinas Komunikasi dan Informatika (Dinkominfo) mengadakan Sosialisasi Pejabat Pengelola Informasi dan Dokumentasi (PPID) di Operation Room Graha Adi Guna, Kamis (12/12/24). Acara ini menghadirkan Komisioner Bidang Penyelesaian Sengketa Informasi Komisi Informasi Provinsi Jawa Tengah, Sutarto, sebagai narasumber yang memaparkan materi tentang Penyusunan Daftar Informasi Publik (DIP), Daftar Informasi Publik yang Dikecualikan (DIK), dan pencegahan sengketa informasi. Plt. Asisten Administrasi Umum Kabupaten Purbalingga, Ato Susanto, mewakili Bupati Purbalingga, Dyah Hayuning Pratiwi, menyampaikan pentingnya keterbukaan informasi publik dalam penyelenggaraan pemerintahan yang baik dan bersih. “Penyusunan DIP dan DIK, serta pencegahan sengketa informasi, adalah langkah penting bagi kita sebagai aparat pemerintah daerah untuk mewujudkan transparansi dan mencegah tindakan koruptif,” ujarnya. Ato menekankan bahwa dinamika informasi yang terus berkembang membutuhkan penyempurnaan dalam pengelolaan PPID. “Informasi yang dulu tidak boleh dibagikan, kini mungkin dapat disampaikan kepada masyarakat. Oleh karena itu, kami berharap peserta sosialisasi dapat mengikuti kegiatan ini dengan baik agar ke depan dapat meningkatkan kinerja PPID di Kabupaten Purbalingga,” tambahnya. Kepala Dinkominfo Purbalingga, Jiah Palupi Twihantarti, menyampaikan bahwa Kabupaten Purbalingga terus mencatatkan peningkatan dalam pengelolaan\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/purbalingga-gelar-sosialisasi-ppid-untuk-tingkatkan-keterbukaan-informasi-publik/",
       "url": "http://ppid.purbalinggakab.go.id/purbalingga-gelar-sosialisasi-ppid-untuk-tingkatkan-keterbukaan-informasi-publik/"
     },
     {
@@ -2120,7 +2149,7 @@
         "keterbukaan",
         "informasi"
       ],
-      "answer": "PURBALINGGA INFO – Sebanyak 300 badan publik di Jawa Tengah, termasuk Kabupaten Purbalingga, mengikuti presentasi Uji Publik dalam rangka Monitoring dan Evaluasi (Monev) Keterbukaan Badan Publik 2024. Kegiatan ini digelar oleh Komisi Informasi Provinsi (KIP) Jawa Tengah di Kompleks BPSDMD Jateng selama dua hari, pada 20-21 November 2024. Acara ini dibuka oleh Pelaksana Tugas Asisten Administrasi Sekda Jawa Tengah, Slamet AK, yang mewakili Sekda Jateng Sumarno. Dalam sambutannya, ia menekankan pentingnya keterbukaan informasi sebagai prasyarat utama untuk mewujudkan pemerintahan yang baik. “Ajang ini akan mengingatkan dan mendorong badan publik untuk untuk senantiasa terbuka dan transparan. Ini adalah bagian dari akuntabilitas yang menjadi esensi pelayanan publik,” ujarnya. Kabupaten Purbalingga dalam hal ini Pejabat Pengelola Informasi dan Dokumentasi (PPID) berkesempatan melakukan uji publik pada hari kedua, Kamis (21/11/24). Plt Bupati Purbalingga, Sudono, hadir langsung menyampaikan sambutan pembuka. \"Pada prinsipnya Pemkab Purbalingga sangat berkomitmen untuk meningkatkan kinerja keterbukaan informasi publik agar dapat memberikan dampak nyata bagi masyarakat,” katanya. Sekretaris Daerah Purbalingga, Herni Sulasti, selaku Atasan PPID, juga memaparkan berbagai langkah strategis yang telah diambil untuk mendukung keterbukaan informasi. Ia menyatakan bahwa keterbukaan informasi publik sejalan dengan misi Pertama Kabupaten Purbalingga, yaitu&nbsp;menyelenggarakan pemer\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kabupaten-purbalingga-ikuti-uji-publik-keterbukaan-informasi/",
+      "answer": "PURBALINGGA INFO – Sebanyak 300 badan publik di Jawa Tengah, termasuk Kabupaten Purbalingga, mengikuti presentasi Uji Publik dalam rangka Monitoring dan Evaluasi (Monev) Keterbukaan Badan Publik 2024. Kegiatan ini digelar oleh Komisi Informasi Provinsi (KIP) Jawa Tengah di Kompleks BPSDMD Jateng selama dua hari, pada 20-21 November 2024. Acara ini dibuka oleh Pelaksana Tugas Asisten Administrasi Sekda Jawa Tengah, Slamet AK, yang mewakili Sekda Jateng Sumarno. Dalam sambutannya, ia menekankan pentingnya keterbukaan informasi sebagai prasyarat utama untuk mewujudkan pemerintahan yang baik. “Ajang ini akan mengingatkan dan mendorong badan publik untuk untuk senantiasa terbuka dan transparan. Ini adalah bagian dari akuntabilitas yang menjadi esensi pelayanan publik,” ujarnya. Kabupaten Purbalingga dalam hal ini Pejabat Pengelola Informasi dan Dokumentasi (PPID) berkesempatan melakukan uji publik pada hari kedua, Kamis (21/11/24). Plt Bupati Purbalingga, Sudono, hadir langsung menyampaikan sambutan pembuka. \"Pada prinsipnya Pemkab Purbalingga sangat berkomitmen untuk meningkatkan kinerja keterbukaan informasi publik agar dapat memberikan dampak nyata bagi masyarakat,” katanya. Sekretaris Daerah Purbalingga, Herni Sulasti, selaku Atasan PPID, juga memaparkan berbagai langkah strategis yang telah diambil untuk mendukung keterbukaan informasi. Ia menyatakan bahwa keterbukaan informasi publik sejalan dengan misi Pertama Kabupaten Purbalingga, yaitu menyelenggarakan pemer\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kabupaten-purbalingga-ikuti-uji-publik-keterbukaan-informasi/",
       "url": "http://ppid.purbalinggakab.go.id/kabupaten-purbalingga-ikuti-uji-publik-keterbukaan-informasi/"
     },
     {
@@ -2655,7 +2684,7 @@
         "ranwal",
         "rpjpd"
       ],
-      "answer": "PURBALINGGA INFO - Sekretaris Daerah Kabupaten Purbalingga, Herni Sulasti, menekankan pentingnya partisipasi publik pada penyusunan Rancangan Awal (Ranwal) Rencana Pembangunan Jangka Panjang Daerah (RPJPD) Kabupaten Purbalingga 2025-2045. Pernyataan tersebut ia sampaikan saat membuka Forum Konsultasi Publik Ranwal RPJPD Kabupaten Purbalingga Tahun 2025-2045 di Operation Room Graha Adiguna, Selasa (16/1/24). \"Forum konsultasi publik ini adalah forum yang sangat strategis, karena kita semua yang ada di ruangan ini punya tanggung jawab agar RPJPD kita ini bisa membuat masyarakat Purbalingga  menjadi semakin sejahtera,\" ujar Herni Sulasti Forum Konsultasi Publik ini diadakan sebagai upaya Pemerintah Kabupaten Purbalingga untuk melibatkan semua pihak dalam menentukan arah pembangunan yang lebih baik. \"Oleh karena itu pada tahapan ini kami mohon bapak ibu untuk memberikan masukannya, kontribusi pemikirannya kepada Pemerintah Daerah supaya nantinya akan bisa menyiapkan dokumen perencanaan yang benar-benar menjawab kebutuhan dan tantangan Pemkab Purbalingga,\" lanjutnya. Sekda Herni Sulasti menambahkan RPJPD merupakan dokumen perencanaan yang memuat visi misi, arah kebijakan, dan sasaran pokok pembangunan daerah jangka panjang untuk 20 tahun ke depan, yang disusun dengan berpedoman pada Rencana Pembangunan Jangka Panjang Nasional (RPJPN) dan Rencana Tata Ruang Wilayah (RTRW). \"Jadi kata kuncinya dalam menyusun RPJPD yang hari ini kita diskusikan tidak boleh lepas dari RPJPN dan juga\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/sekda-herni-sulasti-tekankan-pentingnya-partisipasi-publik-dalam-penyusunan-ranwal-rpjpd/",
+      "answer": "PURBALINGGA INFO - Sekretaris Daerah Kabupaten Purbalingga, Herni Sulasti, menekankan pentingnya partisipasi publik pada penyusunan Rancangan Awal (Ranwal) Rencana Pembangunan Jangka Panjang Daerah (RPJPD) Kabupaten Purbalingga 2025-2045. Pernyataan tersebut ia sampaikan saat membuka Forum Konsultasi Publik Ranwal RPJPD Kabupaten Purbalingga Tahun 2025-2045 di Operation Room Graha Adiguna, Selasa (16/1/24). \"Forum konsultasi publik ini adalah forum yang sangat strategis, karena kita semua yang ada di ruangan ini punya tanggung jawab agar RPJPD kita ini bisa membuat masyarakat Purbalingga menjadi semakin sejahtera,\" ujar Herni Sulasti Forum Konsultasi Publik ini diadakan sebagai upaya Pemerintah Kabupaten Purbalingga untuk melibatkan semua pihak dalam menentukan arah pembangunan yang lebih baik. \"Oleh karena itu pada tahapan ini kami mohon bapak ibu untuk memberikan masukannya, kontribusi pemikirannya kepada Pemerintah Daerah supaya nantinya akan bisa menyiapkan dokumen perencanaan yang benar-benar menjawab kebutuhan dan tantangan Pemkab Purbalingga,\" lanjutnya. Sekda Herni Sulasti menambahkan RPJPD merupakan dokumen perencanaan yang memuat visi misi, arah kebijakan, dan sasaran pokok pembangunan daerah jangka panjang untuk 20 tahun ke depan, yang disusun dengan berpedoman pada Rencana Pembangunan Jangka Panjang Nasional (RPJPN) dan Rencana Tata Ruang Wilayah (RTRW). \"Jadi kata kuncinya dalam menyusun RPJPD yang hari ini kita diskusikan tidak boleh lepas dari RPJPN dan juga\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/sekda-herni-sulasti-tekankan-pentingnya-partisipasi-publik-dalam-penyusunan-ranwal-rpjpd/",
       "url": "http://ppid.purbalinggakab.go.id/sekda-herni-sulasti-tekankan-pentingnya-partisipasi-publik-dalam-penyusunan-ranwal-rpjpd/"
     },
     {
@@ -2814,7 +2843,7 @@
         "pelayanan",
         "publik"
       ],
-      "answer": "PURBALINGGA - Bupati Purbalingga Dyah Hayuning Pratiwi melakukan presentasi Uji Publik dalam Monitoring dan Evaluasi Komisi Informasi Provinsi Jawa Tengah. Presentasi ini dalam rangka mengetahui sejauh mana keterbukaan informasi publik dari badan publik dalam hal ini Pemkab Purbalingga. \"Kaitan dengan keterbukaan informasi publik memang sudah menjadi bagian dari komitmen kami karena bagian dari Misi Bupati yang Pertama, yaitu&nbsp;Menyelenggarakan pemerintahan yang professional, efektif, inovatif, bersih, akuntabel dan demokratis, sehingga mampu meberikan pelayanan secara prima kepada masyarakat,\" kata Bupati Tiwi dalam presentasi yang bertempat di Universitas Semarang (USM), Rabu (6/12/2023). Pada kesempatan ini, Bupati memamerkan sejumlah inovasi digitalisasi keterbukaan inovasi publik yang bisa dimanfaatkan masyarakat Purbalingga. Pertama, aplikasi Matur Bupati. \"Matur Bupati ini merupakan layanan aduan/masukan masyarakat kepada pemerintah untuk bisa direspon dan ditindaklanjuti. Hingga akhir tahun 2023 ini sudah ada 3469 aduan,\" katanya. Selain itu Pemkab Purbalingga juga memiliki aplikasi Purbalingga Memikat. Aplikasi yang berbasis website ini akan mempermudah wisatawan untuk memilih destinasi wisata, penginapan sampai dengan kuliner yang ada di Purbalingga. PPID Kabupaten Purbalingga mengikuti Uji Publik KIP Jateng 2023 \"Purbalingga ini mendapat apresiasi dari para pegiat wisata karena alhamdulillah kunjungan wisata jadi cukup ramai, artinya ini juga memudahkan masyarak\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/uji-publik-komisi-informasi-bupati-tiwi-paparkan-inovasi-digital-pelayanan-publik/",
+      "answer": "PURBALINGGA - Bupati Purbalingga Dyah Hayuning Pratiwi melakukan presentasi Uji Publik dalam Monitoring dan Evaluasi Komisi Informasi Provinsi Jawa Tengah. Presentasi ini dalam rangka mengetahui sejauh mana keterbukaan informasi publik dari badan publik dalam hal ini Pemkab Purbalingga. \"Kaitan dengan keterbukaan informasi publik memang sudah menjadi bagian dari komitmen kami karena bagian dari Misi Bupati yang Pertama, yaitu Menyelenggarakan pemerintahan yang professional, efektif, inovatif, bersih, akuntabel dan demokratis, sehingga mampu meberikan pelayanan secara prima kepada masyarakat,\" kata Bupati Tiwi dalam presentasi yang bertempat di Universitas Semarang (USM), Rabu (6/12/2023). Pada kesempatan ini, Bupati memamerkan sejumlah inovasi digitalisasi keterbukaan inovasi publik yang bisa dimanfaatkan masyarakat Purbalingga. Pertama, aplikasi Matur Bupati. \"Matur Bupati ini merupakan layanan aduan/masukan masyarakat kepada pemerintah untuk bisa direspon dan ditindaklanjuti. Hingga akhir tahun 2023 ini sudah ada 3469 aduan,\" katanya. Selain itu Pemkab Purbalingga juga memiliki aplikasi Purbalingga Memikat. Aplikasi yang berbasis website ini akan mempermudah wisatawan untuk memilih destinasi wisata, penginapan sampai dengan kuliner yang ada di Purbalingga. PPID Kabupaten Purbalingga mengikuti Uji Publik KIP Jateng 2023 \"Purbalingga ini mendapat apresiasi dari para pegiat wisata karena alhamdulillah kunjungan wisata jadi cukup ramai, artinya ini juga memudahkan masyarak\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/uji-publik-komisi-informasi-bupati-tiwi-paparkan-inovasi-digital-pelayanan-publik/",
       "url": "http://ppid.purbalinggakab.go.id/uji-publik-komisi-informasi-bupati-tiwi-paparkan-inovasi-digital-pelayanan-publik/"
     },
     {
@@ -2829,7 +2858,7 @@
         "desa",
         "cantik"
       ],
-      "answer": "PURBALINGGA INFO - Dalam rangka mendukung terwujudnya data statistik sektoral berkualitas, untuk perencanaan pembangunan yang berkualitas dan efektif, Badan Pusat Statistik (BPS) Purbalingga menyelenggarakan kegiatan pembinaan statistik sektoral tahun 2023, di Braling Grand Hotel Purbalingga, Rabu (6/9/23). Kepala BPS Purbalingga, Djulfikar Rizky menyampaikan, tujuan pembinaan statistik sektoral adalah untuk meningkatkan kontribusi dan apresiasi masyarakat terhadap statistik untuk membangun satu pusat rujukan informasi statistik nasional. \"Sehingga bisa mengembangkan sistem statistik nasional untuk mendukung pembangunan nasional,\" katanya. Kepala Dinas Komunikasi dan Informatika (Dinkominfo) Purbalingga, Jiah Palupi Twihantarti yang hadir sebagai narasumber menyampaikan, Dinkominfo sebagai Walidata memiliki tugas untuk melaksanakan kegiatan pengumpulan, pemeriksaan, dan pengelolaan data yang disampaikan oleh produsen data, serta menyebarluaskan data. \"Semua data statistik harus memenuhi 4 prinsip Satu Data Indonesia yaitu memenuhi standar data, memenuhi kaidah interoperabilitas, menggunakan kode referensi, dan memiliki meta data,\" katanya. Dijelaskan lebih lanjut, saat ini Kabupaten Purbalingga telah memiliki Portal Satu Data Purbalingga yang beralamat di&nbsp;https://data.purbalinggakab.go.id/&nbsp;yang sudah terintegrasi dengan Portal Satu Data Indonesia. \"Dengan total data terpublikasi per 1 September 2023 sebanyak 5400 dataset dari 63 Organisasi terdiri atas OPD, Kecamata\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dinkominfo-dan-bps-purbalingga-launching-desa-cantik/",
+      "answer": "PURBALINGGA INFO - Dalam rangka mendukung terwujudnya data statistik sektoral berkualitas, untuk perencanaan pembangunan yang berkualitas dan efektif, Badan Pusat Statistik (BPS) Purbalingga menyelenggarakan kegiatan pembinaan statistik sektoral tahun 2023, di Braling Grand Hotel Purbalingga, Rabu (6/9/23). Kepala BPS Purbalingga, Djulfikar Rizky menyampaikan, tujuan pembinaan statistik sektoral adalah untuk meningkatkan kontribusi dan apresiasi masyarakat terhadap statistik untuk membangun satu pusat rujukan informasi statistik nasional. \"Sehingga bisa mengembangkan sistem statistik nasional untuk mendukung pembangunan nasional,\" katanya. Kepala Dinas Komunikasi dan Informatika (Dinkominfo) Purbalingga, Jiah Palupi Twihantarti yang hadir sebagai narasumber menyampaikan, Dinkominfo sebagai Walidata memiliki tugas untuk melaksanakan kegiatan pengumpulan, pemeriksaan, dan pengelolaan data yang disampaikan oleh produsen data, serta menyebarluaskan data. \"Semua data statistik harus memenuhi 4 prinsip Satu Data Indonesia yaitu memenuhi standar data, memenuhi kaidah interoperabilitas, menggunakan kode referensi, dan memiliki meta data,\" katanya. Dijelaskan lebih lanjut, saat ini Kabupaten Purbalingga telah memiliki Portal Satu Data Purbalingga yang beralamat di https://data.purbalinggakab.go.id/ yang sudah terintegrasi dengan Portal Satu Data Indonesia. \"Dengan total data terpublikasi per 1 September 2023 sebanyak 5400 dataset dari 63 Organisasi terdiri atas OPD, Kecamata\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dinkominfo-dan-bps-purbalingga-launching-desa-cantik/",
       "url": "http://ppid.purbalinggakab.go.id/dinkominfo-dan-bps-purbalingga-launching-desa-cantik/"
     },
     {
@@ -2881,7 +2910,7 @@
         "melalui",
         "info"
       ],
-      "answer": "PURBALINGGA INFO - Untuk meningkatkan layanan komunikasi informasi publik terhadap penyandang disabilitas, Dinas Komunikasi dan Informatika (Dinkominfo) Purbalingga mengikuti Bimbingan Teknis Layanan Komunikasi dan Informasi Publik yang Ramah Bagi Penyandang Disabilitas yang diadakan Ditjen IKP Kementerian Kominfo secara daring, Kamis (15/6/23) Berkomunikasi dan memperoleh informasi adalah hak dasar warga negara termasuk penyandang disabilitas. Maka dari itu, Kementerian Kominfo terus berupaya meningkatkan kualitas layanan komunikasi dan informasi publik yang ramah disabilitas melalui aplikasi umum layanan informasi publik berbasis website di alamat&nbsp;info.go.id. Direktur Tata Kelola dan Kemitraan Komunikasi Publik Direktorat Jenderal Informasi dan Komunikasi Publik (Ditjen IKP) Kemenkominfo, Hasyim Gautama, menyampaikan pelaksana kebijakan publik wajib memperhatikan aksesibilitas pelayanan informasi bagi penyandang disabilitas. “Aplikasi umum&nbsp;info.go.id&nbsp;nantinya bisa digunakan oleh semua kementerian, lembaga, dan pemerintah daerah untuk meningkatkan aksesibilitas pelayanan informasi bagi penyandang disabilitas sesuai &nbsp;Peraturan Komisi Informasi Nomor 1 Tahun 2021 tentang Standar Layanan Informasi Publik,” katanya. Lebih lanjut Hasyim menjelaskan&nbsp;info.go.id&nbsp;nantinya akan memiliki fitur-fitur yang memudahkan bagi penyandang disabilitas. “Diantaranya pilihan bahasa (Indonesia/Inggris), fitur panduan suara, perbesar teks, perkecil teks, skala ab\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kemenkominfo-siapkan-layanan-informasi-ramah-disabilitas-melalui-info-go-id/",
+      "answer": "PURBALINGGA INFO - Untuk meningkatkan layanan komunikasi informasi publik terhadap penyandang disabilitas, Dinas Komunikasi dan Informatika (Dinkominfo) Purbalingga mengikuti Bimbingan Teknis Layanan Komunikasi dan Informasi Publik yang Ramah Bagi Penyandang Disabilitas yang diadakan Ditjen IKP Kementerian Kominfo secara daring, Kamis (15/6/23) Berkomunikasi dan memperoleh informasi adalah hak dasar warga negara termasuk penyandang disabilitas. Maka dari itu, Kementerian Kominfo terus berupaya meningkatkan kualitas layanan komunikasi dan informasi publik yang ramah disabilitas melalui aplikasi umum layanan informasi publik berbasis website di alamat info.go.id. Direktur Tata Kelola dan Kemitraan Komunikasi Publik Direktorat Jenderal Informasi dan Komunikasi Publik (Ditjen IKP) Kemenkominfo, Hasyim Gautama, menyampaikan pelaksana kebijakan publik wajib memperhatikan aksesibilitas pelayanan informasi bagi penyandang disabilitas. “Aplikasi umum info.go.id nantinya bisa digunakan oleh semua kementerian, lembaga, dan pemerintah daerah untuk meningkatkan aksesibilitas pelayanan informasi bagi penyandang disabilitas sesuai Peraturan Komisi Informasi Nomor 1 Tahun 2021 tentang Standar Layanan Informasi Publik,” katanya. Lebih lanjut Hasyim menjelaskan info.go.id nantinya akan memiliki fitur-fitur yang memudahkan bagi penyandang disabilitas. “Diantaranya pilihan bahasa (Indonesia/Inggris), fitur panduan suara, perbesar teks, perkecil teks, skala ab\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/kemenkominfo-siapkan-layanan-informasi-ramah-disabilitas-melalui-info-go-id/",
       "url": "http://ppid.purbalinggakab.go.id/kemenkominfo-siapkan-layanan-informasi-ramah-disabilitas-melalui-info-go-id/"
     },
     {
@@ -3075,7 +3104,7 @@
         "purbalingga",
         "naik"
       ],
-      "answer": "PURBALINGGA –&nbsp; Pemerintah Kabupaten Purbalingga meraih nilai capaian Monitoring Center for Prevention (MCP) yang sangat memuaskan dari Komisi Pemberantasan Korupsi (KPK). MCP merupakan salah satu instrumen pencegahan korupsi dalam penyelenggaraan pemerintah yang dievaluasi secara berkala oleh KPK. Pada surat dari KPK nomor B/1319/KSP.00/70-74/03/2023 tertanggal 7 Maret 2023 tentang Capaian MCP Tahun 2022, disebutkan Kabupaten Purbalingga mendapatkan nilai 96,47. “Alhamdulillah hasil penilaian MCP dari KPK pada Tahun 2022 sangat baik, Kabupaten Purbalingga berada di peringkat ke 6 Provinsi Jawa Tengah dan peringkat ke 11 tingkat nasional,” ujar Bupati Dyah Hayuning Pratiwi (Tiwi) dalam keterangan persnya, Senin (13/03/2023). Padahal, imbuh Bupati Tiwi, pada 2021 Purbalingga berada di peringkat 30 Provinsi Jawa Tengah dan 162 pada tingkat nasional. “Jadi, capaian ini adalah bukti komitmen Pemerintah Kabupaten Purbalingga terus berupaya untuk mewujudkan pemerintahan yang profesional, efektif, inovatif, bersih dan akuntabel,” ujarnya. Sebagai informasi, nilai MCP diperolah dari hasil verifikasi pemenuhan bukti-bukti kelengkapan dokumen indikator program yang ditentukan KPK, seperti, penyelenggaraan APBD, perizinan, pajak daerah, aset daerah, kinerja dari Aparat pengawasan Intern Pemerintah (APIP), juga pengelolaan dana desa. Untuk mendorong pencapaian MCP, Pemkab Purbalingga melakukan berbagai langkah strategis. Diantaranya, seluruh Organisasi Perangkat Daerah (OPD\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/gencar-tangkal-korupsi-nilai-mcp-purbalingga-naik/",
+      "answer": "PURBALINGGA – Pemerintah Kabupaten Purbalingga meraih nilai capaian Monitoring Center for Prevention (MCP) yang sangat memuaskan dari Komisi Pemberantasan Korupsi (KPK). MCP merupakan salah satu instrumen pencegahan korupsi dalam penyelenggaraan pemerintah yang dievaluasi secara berkala oleh KPK. Pada surat dari KPK nomor B/1319/KSP.00/70-74/03/2023 tertanggal 7 Maret 2023 tentang Capaian MCP Tahun 2022, disebutkan Kabupaten Purbalingga mendapatkan nilai 96,47. “Alhamdulillah hasil penilaian MCP dari KPK pada Tahun 2022 sangat baik, Kabupaten Purbalingga berada di peringkat ke 6 Provinsi Jawa Tengah dan peringkat ke 11 tingkat nasional,” ujar Bupati Dyah Hayuning Pratiwi (Tiwi) dalam keterangan persnya, Senin (13/03/2023). Padahal, imbuh Bupati Tiwi, pada 2021 Purbalingga berada di peringkat 30 Provinsi Jawa Tengah dan 162 pada tingkat nasional. “Jadi, capaian ini adalah bukti komitmen Pemerintah Kabupaten Purbalingga terus berupaya untuk mewujudkan pemerintahan yang profesional, efektif, inovatif, bersih dan akuntabel,” ujarnya. Sebagai informasi, nilai MCP diperolah dari hasil verifikasi pemenuhan bukti-bukti kelengkapan dokumen indikator program yang ditentukan KPK, seperti, penyelenggaraan APBD, perizinan, pajak daerah, aset daerah, kinerja dari Aparat pengawasan Intern Pemerintah (APIP), juga pengelolaan dana desa. Untuk mendorong pencapaian MCP, Pemkab Purbalingga melakukan berbagai langkah strategis. Diantaranya, seluruh Organisasi Perangkat Daerah (OPD\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/gencar-tangkal-korupsi-nilai-mcp-purbalingga-naik/",
       "url": "http://ppid.purbalinggakab.go.id/gencar-tangkal-korupsi-nilai-mcp-purbalingga-naik/"
     },
     {
@@ -3156,7 +3185,7 @@
         "lakukan",
         "pencoklitan"
       ],
-      "answer": "PURBALINGGA INFO - Sebanyak 2.959 anggota Panitia Pemutakhiran Data Pemilih (Pantarlih) Pemilu 2024 sudah mulai melakukan pencocokan dan penelitian (pencoklitan) daftar pemilih untuk gelaran pemilu tahun 2024. Pantarlih akan bekerja melakukan pencocokan dan penelitian (coklit) dari rumah ke rumah mulai 12 Februari 2023 sampai dengan 11 April 2023. Hal itu disampaikan oleh Ketua KPU Purblingga Eko Setiawan, saat dihubungi melalui pesan Whatsapp, Selasa (14/2/2023). Eko menambahkan&nbsp;Wilayah kerja mereka adalah, satu Pantarlih satu TPS. Usai pelantikan&nbsp;yang dilaksanakan Minggu kemarin (12/2/2023), &nbsp; mereka&nbsp;langsung&nbsp;mendapat bimbingan teknis dari&nbsp;masing-masing&nbsp;PPS. \"Pelantikan dilakukan oleh Panitia Pemungutan Suara (PPS) di 239 desa/kelurahan.&nbsp;Setelah&nbsp;pelantikan&nbsp;mereka harus berkoordinasi dengan aparatur pemerintah di tingkat RT dan RW. Selanjutnya kami akan melakukan coklit serentak pada 14 Februari 2023 ke tokoh-tokoh masyarakat,\"&nbsp;tambahnya. Eko Juga&nbsp;mengatakan, pemutakhiran data pemilih merupakan tahapan penting dalam pemilu sebagai bentuk perlindungan hak pilih warga negara dalam gelaran Pemilu 2024.&nbsp;\"Oleh karena itu, anggota Pantarlih harus bekerja dengan teliti dan cermat sehingga seluruh warga yang sudah memiliki hak memilih tidak ada yang terlewatkan,\" katanya.&nbsp; KPU Purbalingga mencatat Data Penduduk Potensial Pemilihan (DP4) per Desember Tahun 2022 berjumlah 776.013 orang. Jika dibandingkan Pilkada\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/2-959-anggota-pantarlih-mulai-lakukan-pencoklitan/",
+      "answer": "PURBALINGGA INFO - Sebanyak 2.959 anggota Panitia Pemutakhiran Data Pemilih (Pantarlih) Pemilu 2024 sudah mulai melakukan pencocokan dan penelitian (pencoklitan) daftar pemilih untuk gelaran pemilu tahun 2024. Pantarlih akan bekerja melakukan pencocokan dan penelitian (coklit) dari rumah ke rumah mulai 12 Februari 2023 sampai dengan 11 April 2023. Hal itu disampaikan oleh Ketua KPU Purblingga Eko Setiawan, saat dihubungi melalui pesan Whatsapp, Selasa (14/2/2023). Eko menambahkan Wilayah kerja mereka adalah, satu Pantarlih satu TPS. Usai pelantikan yang dilaksanakan Minggu kemarin (12/2/2023), mereka langsung mendapat bimbingan teknis dari masing-masing PPS. \"Pelantikan dilakukan oleh Panitia Pemungutan Suara (PPS) di 239 desa/kelurahan. Setelah pelantikan mereka harus berkoordinasi dengan aparatur pemerintah di tingkat RT dan RW. Selanjutnya kami akan melakukan coklit serentak pada 14 Februari 2023 ke tokoh-tokoh masyarakat,\" tambahnya. Eko Juga mengatakan, pemutakhiran data pemilih merupakan tahapan penting dalam pemilu sebagai bentuk perlindungan hak pilih warga negara dalam gelaran Pemilu 2024. \"Oleh karena itu, anggota Pantarlih harus bekerja dengan teliti dan cermat sehingga seluruh warga yang sudah memiliki hak memilih tidak ada yang terlewatkan,\" katanya. KPU Purbalingga mencatat Data Penduduk Potensial Pemilihan (DP4) per Desember Tahun 2022 berjumlah 776.013 orang. Jika dibandingkan Pilkada\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/2-959-anggota-pantarlih-mulai-lakukan-pencoklitan/",
       "url": "http://ppid.purbalinggakab.go.id/2-959-anggota-pantarlih-mulai-lakukan-pencoklitan/"
     },
     {
@@ -3275,7 +3304,7 @@
         "tahun",
         "2024"
       ],
-      "answer": "PURBALINGGA&nbsp;INFO&nbsp;-&nbsp;Guna mensuskeskan pelaksanaan&nbsp;Pemilihan Kepala Daerah (Pilkada) tahun 2024,&nbsp;Pemerintah Kabupaten (Pemkab) Purbalingga sudah mencadangkan&nbsp;anggaran. Tahun 2022 sudah mencadangkan sebesar Rp. 6 Miliar dan Tahun 2023 akan dicadangkan lagi sebesar Rp. 11,5 miliar, jika dijumlah sebanyak Rp. 11,7 miliar Hal itu disampaikan oleh Kepala Kepala Badan Perencanaan, Penelitian, dan Pembangunan Daerah (Bapelitbangda) Kabupaten Purbalingga, Suroto, Jum’at (27/1/2023). Sebagaimana diketahui Pilkada serentak tahun 2024 akan memilih Gubernur dan Wakil Gubernur Jawa Tengah (Pilgub), serta Bupati dan Wakil Bupati Purbalingga (Pilbup) Terkait recana anggaran yang akan dialokasikan untuk Pilkada, Suroto mengatakan belum bisa dipastikan besaran anggarannya.&nbsp;Sebab, anggaran untuk pelaksanaan Pilkada serentak 2024 itu, masih akan dikomunikasikan dengan Pemerintah Provinsi (Pemprov) Jawa Tengah. “ Sharing atau pembagian tanggungan dana penyelenggaraan Pilkada&nbsp;masih dikomunikasikan dengan Provinsi Jawa Tengah.&nbsp;Setelah ada kepastian berapa jumlah dana yang akan ditanggung Pemprov dan Pemkab&nbsp;baru diketahui berapa dana yang akan dialokasikan,\" lanjutnya. Dia menambahkan, kekurangan dana yang dialokasikan untuk penyelenggaraan dana, nantibya akan dipasang di APBD Kabupaten Purbalingga, tahun anggaran 2024 mendatang.&nbsp;\"Perintah Provinsi adalah bagaimana \"nyelengi\" dulu. Agar tak memberatkan di akhir,\" tambahnya. (dy)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/pemkab-purbalingga-mulai-cadangkan-anggaran-untuk-pelaksanaan-pilkada-tahun-2024/",
+      "answer": "PURBALINGGA INFO - Guna mensuskeskan pelaksanaan Pemilihan Kepala Daerah (Pilkada) tahun 2024, Pemerintah Kabupaten (Pemkab) Purbalingga sudah mencadangkan anggaran. Tahun 2022 sudah mencadangkan sebesar Rp. 6 Miliar dan Tahun 2023 akan dicadangkan lagi sebesar Rp. 11,5 miliar, jika dijumlah sebanyak Rp. 11,7 miliar Hal itu disampaikan oleh Kepala Kepala Badan Perencanaan, Penelitian, dan Pembangunan Daerah (Bapelitbangda) Kabupaten Purbalingga, Suroto, Jum’at (27/1/2023). Sebagaimana diketahui Pilkada serentak tahun 2024 akan memilih Gubernur dan Wakil Gubernur Jawa Tengah (Pilgub), serta Bupati dan Wakil Bupati Purbalingga (Pilbup) Terkait recana anggaran yang akan dialokasikan untuk Pilkada, Suroto mengatakan belum bisa dipastikan besaran anggarannya. Sebab, anggaran untuk pelaksanaan Pilkada serentak 2024 itu, masih akan dikomunikasikan dengan Pemerintah Provinsi (Pemprov) Jawa Tengah. “ Sharing atau pembagian tanggungan dana penyelenggaraan Pilkada masih dikomunikasikan dengan Provinsi Jawa Tengah. Setelah ada kepastian berapa jumlah dana yang akan ditanggung Pemprov dan Pemkab baru diketahui berapa dana yang akan dialokasikan,\" lanjutnya. Dia menambahkan, kekurangan dana yang dialokasikan untuk penyelenggaraan dana, nantibya akan dipasang di APBD Kabupaten Purbalingga, tahun anggaran 2024 mendatang. \"Perintah Provinsi adalah bagaimana \"nyelengi\" dulu. Agar tak memberatkan di akhir,\" tambahnya. (dy)\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/pemkab-purbalingga-mulai-cadangkan-anggaran-untuk-pelaksanaan-pilkada-tahun-2024/",
       "url": "http://ppid.purbalinggakab.go.id/pemkab-purbalingga-mulai-cadangkan-anggaran-untuk-pelaksanaan-pilkada-tahun-2024/"
     },
     {
@@ -3327,7 +3356,7 @@
         "tahun",
         "2022"
       ],
-      "answer": "Berikut kami sampaikan Laporan PPID Kabupaten Purbalingga untuk Tahun 2022 Untuk Keterangan Kecepatan layanan akses informasi&nbsp;ada di Bab III poin ke-3 halaman 11 LAPORAN-TAHUNAN-PPID-KABUPATEN-PURBALINGGA-TAHUN-2022-1Download http://ppid.purbalinggakab.go.id/wp-content/uploads/2023/10/06-Serliani-Anggun-Saputri-Pemberitahuan-Tertulis-1.pdf\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-ppid-tahun-2022/",
+      "answer": "Berikut kami sampaikan Laporan PPID Kabupaten Purbalingga untuk Tahun 2022 Untuk Keterangan Kecepatan layanan akses informasi ada di Bab III poin ke-3 halaman 11 LAPORAN-TAHUNAN-PPID-KABUPATEN-PURBALINGGA-TAHUN-2022-1Download http://ppid.purbalinggakab.go.id/wp-content/uploads/2023/10/06-Serliani-Anggun-Saputri-Pemberitahuan-Tertulis-1.pdf\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-ppid-tahun-2022/",
       "url": "http://ppid.purbalinggakab.go.id/laporan-ppid-tahun-2022/"
     },
     {
@@ -3416,7 +3445,7 @@
         "dikabulkan",
         "2022"
       ],
-      "answer": "[et_pb_section admin_label=\"section\"] [et_pb_row admin_label=\"row\"] [et_pb_column type=\"4_4\"][et_pb_text admin_label=\"Text\"] jumlah-permohonan-informasi-publik-yg-dikabulkan-2022Download [/et_pb_text][/et_pb_column] [/et_pb_row] [/et_pb_section]\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/jumlah-permohonan-informasi-publik-yang-dikabulkan-2022/",
+      "answer": "jumlah-permohonan-informasi-publik-yg-dikabulkan-2022Download\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/jumlah-permohonan-informasi-publik-yang-dikabulkan-2022/",
       "url": "http://ppid.purbalinggakab.go.id/jumlah-permohonan-informasi-publik-yang-dikabulkan-2022/"
     },
     {
@@ -3677,7 +3706,7 @@
         "banyak",
         "aplikasi"
       ],
-      "answer": "PURBALINGGA, INFO- Penggunaan aplikasi berbasis android dan online semakin dianjurkan pemerintah. Dinas Komunikasi dan Informatika (Dinkominfo) Kabupaten Purbalingga telah memfasilitasi pembuatan sejumlah aplikasi untuk membantu kinerja organisasi perangkat daerah (OPD). Hal itu juga dilakukan untuk mendukung pemulihan pasca Covid-19 di Kabupaten Purbalingga. Kepala Dinkominfo Kabupaten Purbalingga, Jiah Palupi Twihantarti, Selasa 20 September 2022 menjelaskan, pada tahun 2022 ini dinas memfasilitasi pembuatan 3 aplikasi untuk BKPPD.&nbsp;Yaitu e-kinerja, e-presensi berbasis android, e-file kepegawaian, serta pengembangan e-kepegawaian untuk pendataan P3K. Kemudian dua aplikasi untuk Dinporapar yaitu aplikasi android Purbalingga Memikat dan aplikasi berbasis web untuk pengelolaannya.&nbsp;Tak hanya itu, ada pengembangan aplikasi Whistle Blowing System (WBS) untuk Inspektorat. \"WBS diantaranya berguna untuk pelaporan melalui sistem ketika diduga ada pelanggaran,\" tegasnya. Dinkominfo Purbalingga juga membuat aplikasi sistem penanggulangan keluarga&nbsp; miskin untuk Bappelitbangda. Lalu fasilitasi sistem informasi desa untuk pelayanan administrasi pemerintahan desa. \"Kominfo juga sedang melakukan pengembangan JDIH (Jaringan Dokumentasi dan Informasi Hukum). Ini masih kami lakukan,\" tambahnya. Sedangkan saat ini masih dalam proses.pembuatan yaitu aplikasi untuk Dinpermasdes, Inspektorat berupa aplikasi sistem informasi bebas temuan.&nbsp; \"Sebenarnya dinas kami ini yang kelih\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dukung-pemulihan-pasca-covid-19-dinkominfo-purbalingga-kembangkan-banyak-aplikasi/",
+      "answer": "PURBALINGGA, INFO- Penggunaan aplikasi berbasis android dan online semakin dianjurkan pemerintah. Dinas Komunikasi dan Informatika (Dinkominfo) Kabupaten Purbalingga telah memfasilitasi pembuatan sejumlah aplikasi untuk membantu kinerja organisasi perangkat daerah (OPD). Hal itu juga dilakukan untuk mendukung pemulihan pasca Covid-19 di Kabupaten Purbalingga. Kepala Dinkominfo Kabupaten Purbalingga, Jiah Palupi Twihantarti, Selasa 20 September 2022 menjelaskan, pada tahun 2022 ini dinas memfasilitasi pembuatan 3 aplikasi untuk BKPPD. Yaitu e-kinerja, e-presensi berbasis android, e-file kepegawaian, serta pengembangan e-kepegawaian untuk pendataan P3K. Kemudian dua aplikasi untuk Dinporapar yaitu aplikasi android Purbalingga Memikat dan aplikasi berbasis web untuk pengelolaannya. Tak hanya itu, ada pengembangan aplikasi Whistle Blowing System (WBS) untuk Inspektorat. \"WBS diantaranya berguna untuk pelaporan melalui sistem ketika diduga ada pelanggaran,\" tegasnya. Dinkominfo Purbalingga juga membuat aplikasi sistem penanggulangan keluarga miskin untuk Bappelitbangda. Lalu fasilitasi sistem informasi desa untuk pelayanan administrasi pemerintahan desa. \"Kominfo juga sedang melakukan pengembangan JDIH (Jaringan Dokumentasi dan Informasi Hukum). Ini masih kami lakukan,\" tambahnya. Sedangkan saat ini masih dalam proses.pembuatan yaitu aplikasi untuk Dinpermasdes, Inspektorat berupa aplikasi sistem informasi bebas temuan. \"Sebenarnya dinas kami ini yang kelih\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/dukung-pemulihan-pasca-covid-19-dinkominfo-purbalingga-kembangkan-banyak-aplikasi/",
       "url": "http://ppid.purbalinggakab.go.id/dukung-pemulihan-pasca-covid-19-dinkominfo-purbalingga-kembangkan-banyak-aplikasi/"
     },
     {
@@ -3874,7 +3903,7 @@
         "kab",
         "purbalingga"
       ],
-      "answer": "[et_pb_section fb_built=\"1\" _builder_version=\"3.0.47\"][et_pb_row _builder_version=\"3.0.48\" background_size=\"initial\" background_position=\"top_left\" background_repeat=\"repeat\"][et_pb_column type=\"4_4\" _builder_version=\"3.0.47\"][et_pb_text _builder_version=\"3.0.74\" background_size=\"initial\" background_position=\"top_left\" background_repeat=\"repeat\" inline_fonts=\"Arial\"] LHKPN Bupati LHKPN Wakil Bupati Tanda Terima LHKPN Sekretaris Daerah Tanda Terima LHKPN Staf Ahli Bupati Bidang Ketatalaksanaan dan Keuangan Tanda Terima LHKPN Staf Ahli Bupati Bidang Ekonomi dan Pembangunan Tanda Terima LHKPN Staf Ahli Bupati Bidang Pemerintahan dan Kemasyarakatan Tanda Terima LHKPN Asisten Pemerintahan dan Kesejahteraan Rakyat Sekretariat Daerah Tanda Terima LHKPN Asisten Ekonomi dan Pembangunan Sekretariat Daerah Tanda Terima LHKPN Asisten Administrasi Umum Sekretariat Daerah Tanda Terima LHKPN Inspektur Inspektorat Daerah Tanda Terima LHKPN Kepala BAKEUDA Tanda Terima LHKPN Kepala BAPPELITBANGDA Tanda Terima LHKPN Kepala BKPPD Tanda Terima LHKPN Kepala DINAKER Tanda Terima LHKPN Kepala DINPERTAN Tanda Terima LHKPN Kepala DINARPUS Tanda Terima LHKPN Kepala DINSOSDALDUKKBP3A Tanda Terima LHKPN Kepala DPMPTSP Tanda Terima LHKPN Kepala DINDUKCAPIL Tanda Terima Tanda Terima LHKPN Kepala DINDIKBUD Tanda Terima LHKPN Kepala DINKOMINFO Tanda Terima LHKPN Kepala DKPP Tanda Terima LHKPN Kepala DINKES Tanda Terima LHKPN SEKRETARIS DPRD Tanda Terima LHKPN Kepala DINRUMKIM Tanda Terima LHKPN Kepala DINKOP\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/data-pejabat-yang-menjadi-wajib-lapor-lhkpn-tahun-2021-kab-purbalingga/",
+      "answer": "LHKPN Bupati LHKPN Wakil Bupati Tanda Terima LHKPN Sekretaris Daerah Tanda Terima LHKPN Staf Ahli Bupati Bidang Ketatalaksanaan dan Keuangan Tanda Terima LHKPN Staf Ahli Bupati Bidang Ekonomi dan Pembangunan Tanda Terima LHKPN Staf Ahli Bupati Bidang Pemerintahan dan Kemasyarakatan Tanda Terima LHKPN Asisten Pemerintahan dan Kesejahteraan Rakyat Sekretariat Daerah Tanda Terima LHKPN Asisten Ekonomi dan Pembangunan Sekretariat Daerah Tanda Terima LHKPN Asisten Administrasi Umum Sekretariat Daerah Tanda Terima LHKPN Inspektur Inspektorat Daerah Tanda Terima LHKPN Kepala BAKEUDA Tanda Terima LHKPN Kepala BAPPELITBANGDA Tanda Terima LHKPN Kepala BKPPD Tanda Terima LHKPN Kepala DINAKER Tanda Terima LHKPN Kepala DINPERTAN Tanda Terima LHKPN Kepala DINARPUS Tanda Terima LHKPN Kepala DINSOSDALDUKKBP3A Tanda Terima LHKPN Kepala DPMPTSP Tanda Terima LHKPN Kepala DINDUKCAPIL Tanda Terima Tanda Terima LHKPN Kepala DINDIKBUD Tanda Terima LHKPN Kepala DINKOMINFO Tanda Terima LHKPN Kepala DKPP Tanda Terima LHKPN Kepala DINKES Tanda Terima LHKPN SEKRETARIS DPRD Tanda Terima LHKPN Kepala DINRUMKIM Tanda Terima LHKPN Kepala DINKOP\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/data-pejabat-yang-menjadi-wajib-lapor-lhkpn-tahun-2021-kab-purbalingga/",
       "url": "http://ppid.purbalinggakab.go.id/data-pejabat-yang-menjadi-wajib-lapor-lhkpn-tahun-2021-kab-purbalingga/"
     },
     {
@@ -3977,7 +4006,7 @@
         "masih",
         "terbatas"
       ],
-      "answer": "PURBALINGGA, INFO-  Anggaran untuk menyajikan keterbukaan informasi masih terbatas termasuk yang ada di Kabupaten Purbalingga. Hal tersebut disampaikan Zaenal Abidin Petir Komisioner KIP (Komisi Informasi Provinsi) saat memberikan sambutan dalam  visitasi pembuktian dokumen SAQ kegiatan PPID (Pejabat Pengelola Informasi dan Dokumentasi di gedung Graha Adiguna komplek Pendapa Dipokusumo Purbalingga,Selasa (26/10/2021). Zaenal mengatakan, untuk mewujudkan&nbsp; keterbukaan informasi pemerintahan, PPID merupakan salah satu instrumen hal tersebut. Kondisi anggaran PPID yang terbatas bisa berpengaruh pada terhambatnya keterbukaan informasi yang prima. Menurutnya, instrument PPID harus menjadi garda terdepan dalam keterbukaan informasi sehingga harus dioptimalkan. “PPID harus menjadi instrument keterbukaan informasi penyelenggaraan pemerintahan. Sehingga harus dioptimalkan dan salah satu usaha mengoptimalkan PPID adalah dukungan anggaran,” katanya. Keterbukaan informasi yang direpresentasikan dalam PPID bisa mewujudkan pemerintahan yang transparan dan akuntabel. Dirinya menyebutkan 3 (tiga) elemen dalam mewujudkan asas pemerintahan yaitu demokratis, transparan dan akuntabel dan optimalisasi PPID menjadi kebutuhan yang tidak bisa dihindarkan. “PPID harus optimal. Dukungan anggaran dari rumpun TAPD harus bisa menjembatani kebutuhan tersebut,” imbuhnya. Senada dengan hal di atas, Plt. Kepala Dinas Kominfo Purbalingga, Sridadi menjelaskan bahwa optimalisasi PPID dalam rangka\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/anggaran-keterbukaan-informasi-masih-terbatas/",
+      "answer": "PURBALINGGA, INFO- Anggaran untuk menyajikan keterbukaan informasi masih terbatas termasuk yang ada di Kabupaten Purbalingga. Hal tersebut disampaikan Zaenal Abidin Petir Komisioner KIP (Komisi Informasi Provinsi) saat memberikan sambutan dalam visitasi pembuktian dokumen SAQ kegiatan PPID (Pejabat Pengelola Informasi dan Dokumentasi di gedung Graha Adiguna komplek Pendapa Dipokusumo Purbalingga,Selasa (26/10/2021). Zaenal mengatakan, untuk mewujudkan keterbukaan informasi pemerintahan, PPID merupakan salah satu instrumen hal tersebut. Kondisi anggaran PPID yang terbatas bisa berpengaruh pada terhambatnya keterbukaan informasi yang prima. Menurutnya, instrument PPID harus menjadi garda terdepan dalam keterbukaan informasi sehingga harus dioptimalkan. “PPID harus menjadi instrument keterbukaan informasi penyelenggaraan pemerintahan. Sehingga harus dioptimalkan dan salah satu usaha mengoptimalkan PPID adalah dukungan anggaran,” katanya. Keterbukaan informasi yang direpresentasikan dalam PPID bisa mewujudkan pemerintahan yang transparan dan akuntabel. Dirinya menyebutkan 3 (tiga) elemen dalam mewujudkan asas pemerintahan yaitu demokratis, transparan dan akuntabel dan optimalisasi PPID menjadi kebutuhan yang tidak bisa dihindarkan. “PPID harus optimal. Dukungan anggaran dari rumpun TAPD harus bisa menjembatani kebutuhan tersebut,” imbuhnya. Senada dengan hal di atas, Plt. Kepala Dinas Kominfo Purbalingga, Sridadi menjelaskan bahwa optimalisasi PPID dalam rangka\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/anggaran-keterbukaan-informasi-masih-terbatas/",
       "url": "http://ppid.purbalinggakab.go.id/anggaran-keterbukaan-informasi-masih-terbatas/"
     },
     {
@@ -4163,7 +4192,7 @@
         "vaksinasi",
         "odgj"
       ],
-      "answer": "ODGJ sejumlah 206 Orang, yang beralamat di seluruh Kecamatan di Kabupaten Purbalingga, dengan lokasi vaksinasi :Panti Rehabilitasi Rumah Terang &nbsp;&nbsp;&nbsp;&nbsp; : 64 OrangKecamatan Karangreja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 1 OrangKecamatan Kertanegara &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 28 OrangKecamatan Kutasari &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 19 OrangKecamatan Kaligondang &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 1 OrangKecamatan Kejobong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 3 OrangKecamatan Bukateja &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 26 OrangKecamatan Kemangkon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 1 OrangKecamatan Pengadegan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/vaksinasi-odgj/",
+      "answer": "ODGJ sejumlah 206 Orang, yang beralamat di seluruh Kecamatan di Kabupaten Purbalingga, dengan lokasi vaksinasi :Panti Rehabilitasi Rumah Terang : 64 OrangKecamatan Karangreja : 1 OrangKecamatan Kertanegara : 28 OrangKecamatan Kutasari : 19 OrangKecamatan Kaligondang : 1 OrangKecamatan Kejobong : 3 OrangKecamatan Bukateja : 26 OrangKecamatan Kemangkon : 1 OrangKecamatan Pengadegan\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/vaksinasi-odgj/",
       "url": "http://ppid.purbalinggakab.go.id/vaksinasi-odgj/"
     },
     {
@@ -4173,7 +4202,7 @@
         "vaksinasi",
         "odkb"
       ],
-      "answer": "ODKB sejumlah 300 Orang, yang beralamat di seluruh Kecamatan di Kabupaten Purbalingga, dengan lokasi vaksinasi :Kecamatan Kertanegara                      : 14 OrangKecamatan Kejobong                          : 17 OrangKecamatan Karangreja                        : 24 OrangKecamatan Kemangkon                      : 12 OrangKecamatan Padamara                         : 9 OrangKecamatan Kutasari                            : 21 OrangKecamatan Purbalingga                     : 15 OrangKecamatan karangjambu                     : 14 OrangKecamatan Mrebet                              : 19 OrangKecamatan Karangmoncol                  : 16 OrangKecamatan Bukateja                            : 14 OrangKecamatan Bobotsari                          : 30 OrangKecamatan Kaligondang                     : 17 OrangKecamatan Rembang                          : 10 OrangKecamatan Kalimanah                         : 11 OrangKecamatan Pengadegan                     : 24 OrangKecamatan Bojongsari                         : 14 OrangKecamatan Karanganyar                     : 19 Orang Dapat disimak selengka\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/vaksinasi-odkb/",
+      "answer": "ODKB sejumlah 300 Orang, yang beralamat di seluruh Kecamatan di Kabupaten Purbalingga, dengan lokasi vaksinasi :Kecamatan Kertanegara : 14 OrangKecamatan Kejobong : 17 OrangKecamatan Karangreja : 24 OrangKecamatan Kemangkon : 12 OrangKecamatan Padamara : 9 OrangKecamatan Kutasari : 21 OrangKecamatan Purbalingga : 15 OrangKecamatan karangjambu : 14 OrangKecamatan Mrebet : 19 OrangKecamatan Karangmoncol : 16 OrangKecamatan Bukateja : 14 OrangKecamatan Bobotsari : 30 OrangKecamatan Kaligondang : 17 OrangKecamatan Rembang : 10 OrangKecamatan Kalimanah : 11 OrangKecamatan Pengadegan : 24 OrangKecamatan Bojongsari : 14 OrangKecamatan Karanganyar : 19 Orang Dapat disimak selengka\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/vaksinasi-odkb/",
       "url": "http://ppid.purbalinggakab.go.id/vaksinasi-odkb/"
     },
     {
@@ -4203,7 +4232,7 @@
         "dalam",
         "negeri"
       ],
-      "answer": "Sistem Informasi Satpol PP Direktorat Jenderal Bisa Administrasi Kewilayahan Kementerian Dalam Negeri dapat diakses disini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/sistem-informasi-satpol-pp-direktorat-jenderal-bina-administrasi-kewilayahan-kementerian-dalam-negeri/",
+      "answer": "Sistem Informasi Satpol PP Direktorat Jenderal Bisa Administrasi Kewilayahan Kementerian Dalam Negeri dapat diakses disini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/sistem-informasi-satpol-pp-direktorat-jenderal-bina-administrasi-kewilayahan-kementerian-dalam-negeri/",
       "url": "http://ppid.purbalinggakab.go.id/sistem-informasi-satpol-pp-direktorat-jenderal-bina-administrasi-kewilayahan-kementerian-dalam-negeri/"
     },
     {
@@ -4282,7 +4311,7 @@
         "kesehatan",
         "2021"
       ],
-      "answer": "Laporan Realisasi Pendanaan Kesehatan 2021. Download di sini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-realisasi-pendanaan-kesehatan-2021/",
+      "answer": "Laporan Realisasi Pendanaan Kesehatan 2021. Download di sini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-realisasi-pendanaan-kesehatan-2021/",
       "url": "http://ppid.purbalinggakab.go.id/laporan-realisasi-pendanaan-kesehatan-2021/"
     },
     {
@@ -4295,7 +4324,7 @@
         "ekonomi",
         "2021"
       ],
-      "answer": "Laporan Realisasi Pemulihan Ekonomi 2021. Download di sini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-realisasi-pemulihan-ekonomi-2021/",
+      "answer": "Laporan Realisasi Pemulihan Ekonomi 2021. Download di sini\n\n🔗 Selengkapnya: http://ppid.purbalinggakab.go.id/laporan-realisasi-pemulihan-ekonomi-2021/",
       "url": "http://ppid.purbalinggakab.go.id/laporan-realisasi-pemulihan-ekonomi-2021/"
     },
     {
