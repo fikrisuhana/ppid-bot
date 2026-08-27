@@ -112,10 +112,23 @@
             const msgDiv = document.createElement('div');
             msgDiv.className = `ppid-message ${sender}`;
 
-            // Parse basic markdown (bold, list)
-            let formattedText = text
+            // Normalize literal 
+ / 
+ to real newlines, then parse markdown
+            let formattedText = String(text || '')
+                .replace(/\r\n/g, '
+')
+                .replace(/\n/g, '
+')
+                .replace(/
+/g, '
+')
+                .replace(//g, '
+')
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\n/g, '<br>');
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                .replace(/
+/g, '<br>');
 
             let html = `<div class="ppid-bubble">${formattedText}</div>`;
 
